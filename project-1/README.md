@@ -6,7 +6,7 @@ The main challenge is ingesting data from a CSV and API using a Visual/Drag-and-
 ## 2. Project
 ![alt text](architecture_diagram/source_images/architecture_resized.png "Architecture")
 
-Our solution included the usage of three main technologies:
+Our solution includes the usage of three main technologies:
 * Apache Hop: as the Drag-And-Drop Orchestration Platform
 * Postgres: as our database to store the raw data and the star schema modeling
 * Metabase: as our Data Visualization tool
@@ -20,6 +20,22 @@ The workflow designed in Apache Hop contains the following steps:
 * **star_schema_creation.hpl**: A pipeline which execute a script to create all the tables from the star schema model. Check the file `pg_dml/star_schema.sql` for more details.
 
 ![alt text](architecture_diagram/source_images/star_schema_model.png "Star Schema Model")
+
+The tables designed in the Star Schema was used to generate the following graphs in Metabase (Dashboard name: `star schema - bancos tarifa`):
+
+* Relation between total of services provided by a bank and the number of complains/issues.
+
+![alt text](architecture_diagram/source_images/graph1.png "Star Schema Model")
+
+* TOP Banks with more complains/issues.
+
+![alt text](architecture_diagram/source_images/graph2.png "Star Schema Model")
+
+
+* TOP banks with free services (no fee).
+
+![alt text](architecture_diagram/source_images/graph3.png "Star Schema Model")
+
 
 ## 3. How to Run
 
