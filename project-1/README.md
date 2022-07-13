@@ -7,9 +7,9 @@ The main challenge is ingesting data from a CSV and API using a Visual/Drag-and-
 ![alt text](architecture_diagram/source_images/architecture_resized.png "Architecture")
 
 Our solution includes the usage of three main technologies:
-* Apache Hop: as the Drag-And-Drop Orchestration Platform
-* Postgres: as our database to store the raw data and the star schema modeling
-* Metabase: as our Data Visualization tool
+* **Apache Hop**: as the Drag-And-Drop Orchestration Platform
+* **Postgres**: as our database to store the raw data and the star schema modeling
+* **Metabase**: as our Data Visualization tool
 
 
 The workflow designed in Apache Hop contains the following steps:
