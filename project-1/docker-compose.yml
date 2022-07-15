@@ -30,4 +30,13 @@ services:
       - "3000:3000"
     volumes:
       - .metabase_db:/tmp/metabase.db:rw
-
+  jupyter_lab:
+    container_name: jupyter_lab
+    image: jupyter/scipy-notebook
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./notebooks:/home/jovyan/:rw
+    environment:
+      JUPYTER_ENABLE_LAB: "yes"
+    command: "start-notebook.sh --NotebookApp.token='' --NotebookApp.password=''"
