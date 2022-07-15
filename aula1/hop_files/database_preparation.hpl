@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pipeline>
+  <info>
+    <name>database_preparation</name>
+    <name_sync_with_filename>Y</name_sync_with_filename>
+    <description/>
+    <extended_description/>
+    <pipeline_version/>
+    <pipeline_type>Normal</pipeline_type>
+    <parameters>
+    </parameters>
+    <capture_transform_performance>N</capture_transform_performance>
+    <transform_performance_capturing_delay>1000</transform_performance_capturing_delay>
+    <transform_performance_capturing_size_limit>100</transform_performance_capturing_size_limit>
+    <created_user>-</created_user>
+    <created_date>2022/07/11 12:17:05.861</created_date>
+    <modified_user>-</modified_user>
+    <modified_date>2022/07/11 12:17:05.861</modified_date>
+    <key_for_session_key>H4sIAAAAAAAAAAMAAAAAAAAAAAA=</key_for_session_key>
+    <is_key_private>N</is_key_private>
+  </info>
+  <notepads>
+  </notepads>
+  <order>
+  </order>
+  <transform>
+    <name>create_source_tbls_pg</name>
+    <type>ExecSql</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <arguments>
+</arguments>
+    <connection>pg-test</connection>
+    <execute_each_row>N</execute_each_row>
+    <set_params>N</set_params>
+    <quoteString>N</quoteString>
+    <replace_variables>N</replace_variables>
+    <single_statement>N</single_statement>
+    <sql>DROP TABLE IF EXISTS bancos;
+CREATE TABLE IF NOT EXISTS bancos (
+    id serial PRIMARY KEY,
+    created_at TIMESTAMP DEFAULT NOW(),
+    ano VARCHAR(255),
+    trimestre VARCHAR(255),
+    categoria VARCHAR(255),
+    tipo VARCHAR(255),
+    cnpj VARCHAR(255),
+    instituicao_financeira VARCHAR(255),
+    indice VARCHAR(255),
+    qtde_reclamacoes_reguladas_procedentes VARCHAR(255),
+    qtde_reclamacoes_reguladas_outras VARCHAR(255),
+    qtde_de_reclamacoes_nao_reguladas VARCHAR(255),
+    qtde_total_reclamacoes VARCHAR(255),
+    qtde_total_clientes_spa_ccs_e_scr VARCHAR(255),
+    qtde_clientes_spa_ccs VARCHAR(255),
+    qtde_clientes_spa_scr VARCHAR(255)
+);
+
+DROP TABLE IF EXISTS lista_tarifas;
+CREATE TABLE IF NOT EXISTS lista_tarifas (
+    id serial PRIMARY KEY,
+    created_at TIMESTAMP DEFAULT NOW(),
+    cnpj VARCHAR (255),
+    codigo_servico VARCHAR(255),
+    data_vigencia VARCHAR(255),
+    periodicidade VARCHAR(255),
+    servico VARCHAR(255),
+    tipo_valor VARCHAR(255),
+    unidade VARCHAR(255),
+    valor_maximo VARCHAR(255)
+);</sql>
+    <attributes/>
+    <GUI>
+      <xloc>240</xloc>
+      <yloc>208</yloc>
+    </GUI>
+  </transform>
+  <transform_error_handling>
+  </transform_error_handling>
+  <attributes/>
+</pipeline>
