@@ -1,2 +1,16 @@
 .idea
 .DS_Store
+.metabase.db.mv.db
+.metabase.db.trace.db
+.cache
+.config
+.ipynb_checkpoints
+.ipython
+.jupyter
+.local
+*.pyc
+project-2/notebooks/layers/raw/bancos.csv
+project-2/notebooks/layers/raw/lista_tarifas.csv
+project-2/notebooks/layers/trusted/bancos.csv
+project-2/notebooks/layers/trusted/lista_tarifas.csv
+out/

@@ -1,49 +1,48 @@
+from packages.etl.etl_base import ETLBase
 from packages.utils.database_manager import DatabaseManager
-from packages.utils.logger import Logger
 
 
-class BancosTarifas:
-
+class BancosTarifas(ETLBase):
     def __init__(self):
-        self.__logger = Logger()
         self.__db_manager = DatabaseManager()
+        super().__init__()
 
     def generate_dimensions(self):
-        self.__logger.info("Creating refined.dim_categoria")
+        self._logger.info("Creating refined.dim_categoria")
         self.__db_manager.create_table_as_query(
             schema_name="refined",
             table_name="dim_categoria",
             drop_on_create=True,
-            query="SELECT DISTINCT md5(categoria) as categoria_id, categoria  FROM trusted.bancos;"
+            query="SELECT DISTINCT md5(categoria) as categoria_id, categoria  FROM trusted.bancos;",
         )
 
-        self.__logger.info("Creating refined.dim_tipo")
+        self._logger.info("Creating refined.dim_tipo")
         self.__db_manager.create_table_as_query(
             schema_name="refined",
             table_name="dim_tipo",
             drop_on_create=True,
-            query="SELECT DISTINCT md5(tipo) as tipo_id, tipo  FROM trusted.bancos;"
+            query="SELECT DISTINCT md5(tipo) as tipo_id, tipo  FROM trusted.bancos;",
         )
 
-        self.__logger.info("Creating refined.dim_instituicao_financeira")
+        self._logger.info("Creating refined.dim_instituicao_financeira")
         self.__db_manager.create_table_as_query(
             schema_name="refined",
             table_name="dim_instituicao_financeira",
             drop_on_create=True,
             query="SELECT DISTINCT md5(CONCAT(cnpj_if, instituicao_financeira)) as instituicao_financeira_id, cnpj_if, "
-                  "instituicao_financeira, indice  FROM trusted.bancos;"
+            "instituicao_financeira, indice  FROM trusted.bancos;",
         )
 
-        self.__logger.info("Creating refined.dim_data")
+        self._logger.info("Creating refined.dim_data")
         self.__db_manager.create_table_as_query(
             schema_name="refined",
             table_name="dim_data",
             drop_on_create=True,
-            query="SELECT DISTINCT md5(CONCAT(ano, trimestre)) as data_id, ano, trimestre FROM trusted.bancos;"
+            query="SELECT DISTINCT md5(CONCAT(ano, trimestre)) as data_id, ano, trimestre FROM trusted.bancos;",
         )
 
     def generate_fact(self):
-        self.__logger.info("Creating refined.fact_bancos_tarifas")
+        self._logger.info("Creating refined.fact_bancos_tarifas")
         self.__db_manager.create_table_as_query(
             schema_name="refined",
             table_name="fact_bancos_tarifas",
@@ -85,13 +84,13 @@ class BancosTarifas:
                                   as valor_maximo_taxa_percentual
                               FROM trusted.lista_tarifas
                               GROUP BY 1) as foo ON foo.cnpj::varchar = bar.cnpj_if
-                """)
+                """,
+        )
 
     def execute(self):
-        self.__logger.info("Starting dimensions creation")
+        self._logger.info("Starting dimensions creation")
         self.generate_dimensions()
-        self.__logger.info("Dimensions created!")
-        self.__logger.info("Starting fact creation")
+        self._logger.info("Dimensions created!")
+        self._logger.info("Starting fact creation")
         self.generate_fact()
-        self.__logger.info("Fact created!")
-
+        self._logger.info("Fact created!")

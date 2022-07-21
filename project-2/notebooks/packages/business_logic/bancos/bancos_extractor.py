@@ -8,9 +8,11 @@ from packages.etl.rest_api_extractor import RestApiExtractor
 
 class BancosExtractor(RestApiExtractor):
     # https://dados.gov.br/dataset/ranking-de-instituicoes-por-indice-de-reclamacoes
-    entity_name = "bancos"
-    endpoint = "https://www3.bcb.gov.br/rdrweb/rest/ext/ranking/arquivo?ano={ano}&periodicidade=TRIMESTRAL&periodo" \
-               "={periodo}&tipo=Bancos%20e%20financeiras"
+
+    endpoint = (
+        "https://www3.bcb.gov.br/rdrweb/rest/ext/ranking/arquivo?ano={ano}&periodicidade=TRIMESTRAL&periodo"
+        "={periodo}&tipo=Bancos%20e%20financeiras"
+    )
     period = {
         "20201": (2020, 1),
         "20202": (2020, 2),
@@ -26,7 +28,9 @@ class BancosExtractor(RestApiExtractor):
         super().__init__()
 
     def get_bancos_df(self, url, raw_data):
-        result = self._api_hook.get(endpoint=url, headers=None, output_type='text', encoding='latin-1')
+        result = self._api_hook.get(
+            endpoint=url, headers=None, output_type="text", encoding="latin-1"
+        )
         len(result)
         data = StringIO(result)
         raw_data.append(pandas.read_csv(data, sep=";"))

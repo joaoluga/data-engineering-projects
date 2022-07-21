@@ -3,7 +3,6 @@ from packages.utils.logger import Logger
 
 
 class RestApiHook:
-
     def __init__(self):
         self._logger = Logger()
 

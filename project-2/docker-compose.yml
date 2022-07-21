@@ -1,0 +1,28 @@
+version: '2.2'
+services:
+  pg_analytics:
+    image: postgres:12
+    environment:
+      POSTGRES_DB: analytics
+      POSTGRES_PASSWORD: admin
+      POSTGRES_USER: admin
+    ports:
+      - "5435:5432"
+    healthcheck:
+      test: [ "CMD-SHELL", "pg_isready -d analytics -U admin" ]
+      interval: 30s
+      timeout: 30s
+      retries: 3
+  jupyter_lab:
+    container_name: jupyter_lab
+    image: jupyter/scipy-notebook
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./notebooks:/home/jovyan/:rw
+    environment:
+      JUPYTER_ENABLE_LAB: "yes"
+    command: "start-notebook.sh --NotebookApp.token='' --NotebookApp.password=''"
+    depends_on:
+      pg_analytics:
+        condition: service_healthy
