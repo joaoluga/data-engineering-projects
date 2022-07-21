@@ -12,12 +12,17 @@ The main idea is store the solution for the proposed problems during the classes
 The main challenge is ingest data from a CSV and API using a Visual/Drag-and-Drop orchestration platform, create a star-schema and display 3 graphs in a dashboard.
 Check the solution: [here](project-1/README.md)
 
+### Project 2 | ETL with Python and SQL only
+The main challenge is ingest data from a CSV and API using only Python and SQL, create a star-schema and display 3 graphs in a dashboard.
+Check the solution: [here](project-2/README.md)
+
 ## Authors
 
 - [@joaoluga](https://github.com/joaoluga)
 - [@jondrigues](https://github.com/jondrigues)
 - [@viniabkt](https://github.com/viniabkt)
 - [@andersonmanhaes](https://github.com/andersonmanhaes)
+- [@mariaramim](https://github.com/mariaramim)
 
 ## References:
 
@@ -30,3 +35,5 @@ Check the solution: [here](project-1/README.md)
 - **[Diagram as code](https://diagrams.mingrammer.com/)**
 - **[GraphViz](https://graphviz.gitlab.io/download/)**
 - **[Python 3+](https://www.python.org/)**
+- **[Jupyter](https://jupyter.org/)**
+- **[Seaborn](https://seaborn.pydata.org/)**
