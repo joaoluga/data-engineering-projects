@@ -35,3 +35,5 @@ Check the solution: [here](project-2/README.md)
 - **[Diagram as code](https://diagrams.mingrammer.com/)**
 - **[GraphViz](https://graphviz.gitlab.io/download/)**
 - **[Python 3+](https://www.python.org/)**
+- **[Jupyter](https://jupyter.org/)**
+- **[Seaborn](https://seaborn.pydata.org/)**
