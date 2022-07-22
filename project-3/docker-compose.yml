@@ -1,0 +1,85 @@
+version: '2.2'
+services:
+  pg_analytics:
+    container_name: pg_analytics
+    image: postgres:12
+    environment:
+      POSTGRES_DB: analytics
+      POSTGRES_PASSWORD: admin
+      POSTGRES_USER: admin
+    ports:
+      - "5435:5432"
+    healthcheck:
+      test: [ "CMD-SHELL", "pg_isready -d analytics -U admin" ]
+      interval: 30s
+      timeout: 30s
+      retries: 3
+  jupyter_lab:
+    container_name: jupyter_lab
+    image: jupyter/scipy-notebook
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./notebooks:/home/jovyan/:rw
+    environment:
+      JUPYTER_ENABLE_LAB: "yes"
+    command: "start-notebook.sh --NotebookApp.token='' --NotebookApp.password=''"
+    depends_on:
+      pg_analytics:
+        condition: service_healthy
+  airflow_db:
+    container_name: airflow_db
+    image: postgres:12
+    environment:
+      POSTGRES_DB: airflow
+      POSTGRES_PASSWORD: admin
+      POSTGRES_USER: admin
+    ports:
+      - "5436:5432"
+    healthcheck:
+      test: [ "CMD-SHELL", "pg_isready -d airflow -U admin" ]
+      interval: 30s
+      timeout: 30s
+      retries: 3
+  airflow_webserver:
+    container_name: airflow_webserver
+    build:
+      context: .
+    ports:
+      - "8080:8080"
+    volumes: &default_airflow_volumes
+      - ./airflow/dags:/usr/local/airflow/dags:rw
+      - ./airflow/dbt/:/usr/local/airflow/dbt:rw
+    environment: &default_airflow_env_vars
+      - AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=postgresql+psycopg2://admin:admin@airflow_db:5432/airflow
+      - AIRFLOW_HOME=/usr/local/airflow
+      - AIRFLOW__CORE__DAGS_FOLDER=/usr/local/airflow/dags
+      - AIRFLOW__CORE__REMOTE_LOGGING=False
+      - AIRFLOW__CORE__LOAD_EXAMPLES=False
+      - AIRFLOW__CORE__FERNET_KEY=CfdDsMG4QHxoWJkyslKa8TRSrzG3d0oEDg-aVvBBT_w=
+      - AIRFLOW__CORE__EXECUTOR=LocalExecutor
+      - AIRFLOW__WEBSERVER__SECRET_KEY=local_flask_key
+      - AIRFLOW__WEBSERVER__RBAC=True
+      - AIRFLOW__WEBSERVER__AUTHENTICATE=True
+      - AIRFLOW__WEBSERVER__AUTH_BACKEND=auth_backend = airflow.contrib.auth.backends.password_auth
+      - AIRFLOW__WEBSERVER__BASE_URL=http://localhost:8080
+      - AIRFLOW__CLI__ENDPOINT_URL=http://localhost:8080
+    depends_on:
+      airflow_db:
+        condition: service_healthy
+    command: ["webserver"]
+    healthcheck:
+      test: ["CMD-SHELL", "[ -f /usr/local/airflow/airflow-webserver.pid ]"]
+      interval: 30s
+      timeout: 30s
+      retries: 5
+  airflow_scheduler:
+    container_name: airflow_scheduler
+    build:
+      context: .
+    volumes: *default_airflow_volumes
+    environment: *default_airflow_env_vars
+    command: ["scheduler"]
+    depends_on:
+      airflow_webserver:
+        condition: service_healthy
