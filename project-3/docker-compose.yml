@@ -16,7 +16,9 @@ services:
       retries: 3
   jupyter_lab:
     container_name: jupyter_lab
-    image: jupyter/scipy-notebook
+    build:
+      context: .
+      dockerfile: Dockerfile-Jupyter
     ports:
       - "8888:8888"
     volumes:
@@ -24,6 +26,19 @@ services:
     environment:
       JUPYTER_ENABLE_LAB: "yes"
     command: "start-notebook.sh --NotebookApp.token='' --NotebookApp.password=''"
+    depends_on:
+      pg_analytics:
+        condition: service_healthy
+  jupyter_api:
+    container_name: jupyter_api
+    build:
+      context: .
+      dockerfile: Dockerfile-Jupyter
+    ports:
+      - "9999:9999"
+    volumes:
+      - ./notebooks:/home/jovyan/:rw
+    command: "jupyter kernelgateway --KernelGatewayApp.ip=0.0.0.0 --KernelGatewayApp.port=9999 --KernelGatewayApp.api=kernel_gateway.notebook_http  --KernelGatewayApp.seed_uri=oo_etl_workflow.ipynb"
     depends_on:
       pg_analytics:
         condition: service_healthy
@@ -45,6 +60,7 @@ services:
     container_name: airflow_webserver
     build:
       context: .
+      dockerfile: Dockerfile-Airflow
     ports:
       - "8080:8080"
     volumes: &default_airflow_volumes
@@ -77,9 +93,19 @@ services:
     container_name: airflow_scheduler
     build:
       context: .
+      dockerfile: Dockerfile-Airflow
     volumes: *default_airflow_volumes
     environment: *default_airflow_env_vars
     command: ["scheduler"]
     depends_on:
       airflow_webserver:
         condition: service_healthy
+  dbt_docs:
+    container_name: dbt_docs
+    build:
+      context: .
+      dockerfile: Dockerfile-Dbt-docs
+    ports:
+      - "5555:5555"
+    volumes:
+      - ./airflow/dbt/:/dbt-docs:rw

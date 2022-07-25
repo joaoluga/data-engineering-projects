@@ -19,7 +19,6 @@ class StarSchemaETL(ETLBase):
 
     def execute(self):
         self.create_schemas()
-        self._logger.info("Extracting bancos data")
         for entity_name in ["bancos", "lista_tarifas"]:
             self.__etl_workflow_manager(entity_name=entity_name).execute()
-        self.__fact_workflow.execute()
+        # self.__fact_workflow.execute()

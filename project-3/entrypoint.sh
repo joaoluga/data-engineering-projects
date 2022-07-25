@@ -12,7 +12,7 @@ dbt_setup () {
   yq e '.star_schema.outputs.dev.user = "admin"' -i ~/.dbt/profiles.yml
   yq e '.star_schema.outputs.dev.password = "admin"' -i ~/.dbt/profiles.yml
   yq e '.star_schema.outputs.dev.dbname = "analytics"' -i ~/.dbt/profiles.yml
-  yq e '.star_schema.outputs.dev.schema = "trusted"' -i ~/.dbt/profiles.yml
+  yq e '.star_schema.outputs.dev.schema = "refined"' -i ~/.dbt/profiles.yml
   yq e '.star_schema.outputs.dev.threads = 5' -i ~/.dbt/profiles.yml
 
   # shellcheck disable=SC2164
@@ -45,5 +45,3 @@ else
 fi
 echo "Starting" $service
 airflow $service
-
-

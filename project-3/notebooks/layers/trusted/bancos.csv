@@ -1,4 +1,217 @@
 ano,trimestre,categoria,tipo,cnpj_if,instituicao_financeira,indice,quantidade_de_reclamacoes_reguladas_procedentes,quantidade_de_reclamacoes_reguladas_outras,quantidade_de_reclamacoes_nao_reguladas,quantidade_total_de_reclamacoes,quantidade_total_de_clientes_ccs_e_scr,quantidade_de_clientes_ccs,quantidade_de_clientes_scr
+2020,3º,menos de quatro milhões de clientes,conglomerado, ,abc-brasil (conglomerado),,1,3,0,4,24119,22587,3303
+2020,3º,menos de quatro milhões de clientes,conglomerado, ,agibank (conglomerado),62.34,63,199,85,347,1010427,707977,645730
+2020,3º,menos de quatro milhões de clientes,banco/financeira,36321990,"agoracred s/a sociedade de crédito, financiamento e investimento",,4,1,0,5,382287,132,382156
+2020,3º,menos de quatro milhões de clientes,banco/financeira,27214112,"al5 s.a. crédito, financiamento e investimento",,1,0,2,3,10041,3099,8686
+2020,3º,menos de quatro milhões de clientes,conglomerado, ,alfa (conglomerado),87.5,36,72,26,134,411418,268139,144423
+2020,3º,menos de quatro milhões de clientes,conglomerado, ,andbank (conglomerado),,0,8,8,16,4305,4304,51
+2020,3º,menos de quatro milhões de clientes,banco/financeira,23862762,"avista s.a. crédito, financiamento e investimento",,27,6,8,41,1272781,1271301,260038
+2020,3º,menos de quatro milhões de clientes,banco/financeira,03532415,banco abn amro s.a.,,0,0,1,1,140,104,43
+2020,3º,menos de quatro milhões de clientes,banco/financeira,54403563,banco arbi s.a.,,2,0,0,2,13286,4188,9168
+2020,3º,menos de quatro milhões de clientes,banco/financeira,02992446,banco cnh industrial capital s.a.,,1,0,1,2,26883,1240,25942
+2020,3º,mais de quatro milhões de clientes,banco/financeira,08357240,banco csf s.a.,17.06,130,104,90,324,7618737,0,7618737
+2020,3º,menos de quatro milhões de clientes,banco/financeira,04902979,banco da amazonia s.a.,,6,4,8,18,536163,449958,196881
+2020,3º,menos de quatro milhões de clientes,banco/financeira,33042151,banco de la nacion argentina,,0,0,1,1,224,210,25
+2020,3º,menos de quatro milhões de clientes,banco/financeira,05040481,banco de lage landen brasil s.a.,,2,0,0,2,35565,2,35563
+2020,3º,menos de quatro milhões de clientes,banco/financeira,92874270,banco digimais s.a.,269.02,67,20,32,119,249049,129092,158567
+2020,3º,menos de quatro milhões de clientes,banco/financeira,27098060,banco digio s.a.,62.83,85,124,95,304,1352697,263791,1338101
+2020,3º,menos de quatro milhões de clientes,banco/financeira,13009717,banco do estado de sergipe s.a.,,19,21,23,63,1093478,878043,593504
+2020,3º,menos de quatro milhões de clientes,banco/financeira,04913711,banco do estado do pará s.a.,,11,17,27,55,820900,734365,347559
+2020,3º,mais de quatro milhões de clientes,banco/financeira,07237373,banco do nordeste do brasil s.a.,1.58,13,16,45,74,8195746,7615138,2967535
+2020,3º,menos de quatro milhões de clientes,banco/financeira,58616418,banco fibra s.a.,,0,1,4,5,163904,4150,160288
+2020,3º,menos de quatro milhões de clientes,banco/financeira,90731688,banco ford s.a.,,0,0,2,2,408,194,226
+2020,3º,menos de quatro milhões de clientes,banco/financeira,04866275,banco inbursa s.a.,,0,2,6,8,11855,10,11846
+2020,3º,menos de quatro milhões de clientes,banco/financeira,59118133,banco luso brasileiro s.a.,,0,0,1,1,10245,4703,5903
+2020,3º,menos de quatro milhões de clientes,banco/financeira,07441209,banco moneo s.a.,,0,1,0,1,1258,4,1256
+2020,3º,menos de quatro milhões de clientes,banco/financeira,78632767,banco ourinvest s.a.,,0,0,2,2,39217,36646,2591
+2020,3º,menos de quatro milhões de clientes,banco/financeira,61820817,banco paulista s.a.,,0,1,0,1,24424,9146,15539
+2020,3º,menos de quatro milhões de clientes,banco/financeira,00517645,banco ribeirao preto s.a.,,1,0,0,1,4711,4463,2691
+2020,3º,menos de quatro milhões de clientes,banco/financeira,00795423,banco semear s.a.,,0,3,3,6,274701,2843,271968
+2020,3º,menos de quatro milhões de clientes,banco/financeira,07679404,banco topázio s.a.,,0,3,3,6,29098,17079,14612
+2020,3º,menos de quatro milhões de clientes,banco/financeira,03215790,banco toyota do brasil s.a.,,2,5,5,12,170340,15291,156109
+2020,3º,menos de quatro milhões de clientes,banco/financeira,17351180,banco triangulo s.a.,,9,20,20,49,1986156,230353,1800317
+2020,3º,mais de quatro milhões de clientes,conglomerado, ,bancoob (conglomerado),2.89,12,36,15,63,4139244,2079099,2536358
+2020,3º,menos de quatro milhões de clientes,conglomerado, ,banestes (conglomerado),,22,31,31,84,1312082,1266234,470608
+2020,3º,mais de quatro milhões de clientes,conglomerado, ,banrisul (conglomerado),27.15,138,599,129,866,5081434,3779138,3988413
+2020,3º,menos de quatro milhões de clientes,conglomerado, ,barigui (conglomerado),,24,16,5,45,27533,1234,26565
+2020,3º,mais de quatro milhões de clientes,conglomerado, ,bb (conglomerado),27.66,1878,3104,3629,8611,67894151,64226383,29491465
+2020,3º,menos de quatro milhões de clientes,banco/financeira,45283173,bbva brasil banco de investimento s.a.,,0,0,1,1,0,0,0
+2020,3º,mais de quatro milhões de clientes,conglomerado, ,bmg (conglomerado),236.73,1325,636,415,2376,5597083,1605247,4987983
+2020,3º,menos de quatro milhões de clientes,conglomerado, ,bmw (conglomerado),,1,1,2,4,26598,24447,21162
+2020,3º,menos de quatro milhões de clientes,conglomerado, ,bnp paribas (conglomerado),332.0,864,367,161,1392,2602372,12940,2589941
+2020,3º,menos de quatro milhões de clientes,conglomerado, ,bocom (conglomerado),,1,0,0,1,7711,6155,1836
+2020,3º,menos de quatro milhões de clientes,conglomerado, ,bofa merrill lynch (conglomerado),,0,2,0,2,1663,1657,96
+2020,3º,mais de quatro milhões de clientes,conglomerado, ,bradesco (conglomerado),25.76,2551,5042,4027,11620,99010417,89748256,43914201
+2020,3º,menos de quatro milhões de clientes,conglomerado, ,brb (conglomerado),80.11,78,181,119,378,973656,860664,441428
+2020,3º,menos de quatro milhões de clientes,conglomerado, ,btg pactual (conglomerado),,5,8,12,25,499329,401895,101634
+2020,3º,menos de quatro milhões de clientes,conglomerado, ,c6 bank (conglomerado),220.48,599,455,174,1228,2716769,2571688,409398
+2020,3º,mais de quatro milhões de clientes,conglomerado, ,caixa econômica federal (conglomerado),49.1,6684,8562,14828,30074,136115003,134384189,21677728
+2020,3º,menos de quatro milhões de clientes,banco/financeira,09313766,"caruana s.a. - sociedade de crédito, financiamento e investimento",,1,5,2,8,64804,57693,12637
+2020,3º,menos de quatro milhões de clientes,conglomerado, ,ccb (conglomerado),,15,207,14,236,243070,3819,239864
+2020,3º,menos de quatro milhões de clientes,conglomerado, ,citibank (conglomerado),,1,1,6,8,23698,19411,5175
+2020,3º,menos de quatro milhões de clientes,banco/financeira,05676026,"crediare s.a. - crédito, financiamento e investimento",,0,1,0,1,277460,0,277460
+2020,3º,menos de quatro milhões de clientes,conglomerado, ,credit suisse (conglomerado),,0,0,2,2,5105,5102,407
+2020,3º,menos de quatro milhões de clientes,conglomerado, ,crefisa (conglomerado),38.24,74,223,84,381,1934829,848402,1570617
+2020,3º,menos de quatro milhões de clientes,conglomerado, ,daycoval (conglomerado),115.83,137,530,146,813,1182676,96333,1101394
+2020,3º,menos de quatro milhões de clientes,banco/financeira,62331228,deutsche bank s.a. - banco alemao,,0,0,1,1,2429,2410,170
+2020,3º,menos de quatro milhões de clientes,banco/financeira,15581638,facta financeira s.a. - crédito financiamento e investimento,893.56,91,275,6,372,101839,646,101197
+2020,3º,menos de quatro milhões de clientes,banco/financeira,00411939,"finamax s.a. - credito, financiamento e investimento",,0,1,5,6,92257,1739,90584
+2020,3º,menos de quatro milhões de clientes,conglomerado, ,gazin (conglomerado),,2,0,0,2,34889,284,34628
+2020,3º,menos de quatro milhões de clientes,conglomerado, ,gm (conglomerado),,15,16,37,68,320712,469,320325
+2020,3º,menos de quatro milhões de clientes,banco/financeira,06339468,"grazziotin financiadora s/a - crédito, financiamento e investimentos",,0,0,1,1,110696,1,110695
+2020,3º,menos de quatro milhões de clientes,conglomerado, ,grupo bonsucesso - bs2 (conglomerado),74.51,43,128,52,223,577035,570591,8183
+2020,3º,menos de quatro milhões de clientes,conglomerado, ,grupo zema (conglomerado),,2,3,1,6,421393,567,420829
+2020,3º,menos de quatro milhões de clientes,conglomerado, ,herval - hs (conglomerado),,8,0,2,10,197002,570,196490
+2020,3º,menos de quatro milhões de clientes,conglomerado, ,honda (conglomerado),,25,5,23,53,466565,77,466532
+2020,3º,menos de quatro milhões de clientes,conglomerado, ,industrial do brasil (conglomerado),,17,31,7,55,62754,4176,59249
+2020,3º,mais de quatro milhões de clientes,conglomerado, ,inter (conglomerado),126.38,869,397,433,1699,6875798,6724730,1063054
+2020,3º,mais de quatro milhões de clientes,conglomerado, ,itau (conglomerado),32.3,2687,5290,2680,10657,83164395,64446126,49483598
+2020,3º,menos de quatro milhões de clientes,banco/financeira,04230630,"jbcred s.a. sociedade de credito, financiamento e investimento",,3,2,4,9,124278,0,124278
+2020,3º,menos de quatro milhões de clientes,banco/financeira,06040559,"kredilig s.a. - crédito, financiamento e investimento",,0,0,1,1,280481,4,280479
+2020,3º,menos de quatro milhões de clientes,banco/financeira,11271860,"lebes financeira s.a. - crédito, financiamento e investimento",,0,3,1,4,192212,4,192208
+2020,3º,menos de quatro milhões de clientes,conglomerado, ,lecca (conglomerado),,6,0,6,12,25470,1112,24361
+2020,3º,menos de quatro milhões de clientes,conglomerado, ,máxima (conglomerado),313.36,38,35,12,85,121263,33895,88681
+2020,3º,menos de quatro milhões de clientes,conglomerado, ,mercantil do brasil (conglomerado),48.75,160,87,82,329,3281816,2794454,1589128
+2020,3º,menos de quatro milhões de clientes,conglomerado, ,mercedes-benz (conglomerado),,2,3,2,7,20996,236,20839
+2020,3º,mais de quatro milhões de clientes,banco/financeira,09464032,"midway s.a. - crédito, financiamento e investimento",2.02,22,154,101,277,10873867,110,10873832
+2020,3º,menos de quatro milhões de clientes,conglomerado, ,modal (conglomerado),119.26,108,86,95,289,905571,905520,12934
+2020,3º,menos de quatro milhões de clientes,banco/financeira,04379829,"negresco s.a. - credito, financiamento e investimentos",,0,1,1,2,585497,672,584826
+2020,3º,menos de quatro milhões de clientes,banco/financeira,74828799,novo banco continental s.a. - banco múltiplo,,19,59,1,79,82824,3135,80112
+2020,3º,mais de quatro milhões de clientes,conglomerado, ,nubank (conglomerado),0.25,2,5,10,17,7935364,7903697,111965
+2020,3º,mais de quatro milhões de clientes,conglomerado, ,omni (conglomerado),6.12,28,66,72,166,4569483,3673,4566599
+2020,3º,menos de quatro milhões de clientes,conglomerado, ,original (conglomerado),72.11,243,317,341,901,3369592,3207959,536414
+2020,3º,menos de quatro milhões de clientes,conglomerado, ,pagbank-pagseguro (conglomerado),,3,0,0,3,1388670,1385285,3488
+2020,3º,mais de quatro milhões de clientes,conglomerado, ,pan (conglomerado),255.33,1464,2049,1582,5095,5733561,1015888,5014811
+2020,3º,menos de quatro milhões de clientes,conglomerado, ,paraná banco (conglomerado),176.42,82,389,59,530,464786,9343,455724
+2020,3º,menos de quatro milhões de clientes,banco/financeira,03311443,"parati - credito, financiamento e investimento s.a.",,2,3,1,6,1030,0,1030
+2020,3º,mais de quatro milhões de clientes,banco/financeira,43180355,"pefisa s.a. - crédito, financiamento e investimento",15.13,82,60,38,180,5418481,4926211,2669017
+2020,3º,menos de quatro milhões de clientes,conglomerado, ,pine (conglomerado),,1,1,3,5,11124,10229,1494
+2020,3º,menos de quatro milhões de clientes,conglomerado, ,plural (conglomerado),,0,1,1,2,5196,5195,35
+2020,3º,menos de quatro milhões de clientes,conglomerado, ,porto seguro (conglomerado),41.87,106,101,100,307,2531276,0,2531276
+2020,3º,menos de quatro milhões de clientes,banco/financeira,01800019,"portocred s.a. - credito, financiamento e investimento",,16,25,28,69,241363,3783,237584
+2020,3º,mais de quatro milhões de clientes,banco/financeira,27351731,"realize crédito, financiamento e investimento s.a.",1.11,5,41,30,76,4472840,17,4472825
+2020,3º,menos de quatro milhões de clientes,conglomerado, ,rendimento (conglomerado),,3,11,4,18,23240,19196,6759
+2020,3º,menos de quatro milhões de clientes,conglomerado, ,rodobens (conglomerado),,2,0,2,4,12960,1690,11711
+2020,3º,menos de quatro milhões de clientes,conglomerado, ,safra (conglomerado),362.4,996,1229,657,2882,2748317,1181841,1728759
+2020,3º,menos de quatro milhões de clientes,banco/financeira,05503849,"santana s.a. - crédito, financiamento e investimento",,1,2,4,7,29252,1252,28001
+2020,3º,mais de quatro milhões de clientes,conglomerado, ,santander (conglomerado),34.33,1723,4260,3621,9604,50180892,41666035,24563401
+2020,3º,menos de quatro milhões de clientes,banco/financeira,00122327,"santinvest s.a. - credito, financiamento e investimentos",,2,3,0,5,14244,718,13526
+2020,3º,menos de quatro milhões de clientes,banco/financeira,07747410,"sax s.a. - crédito, financiamento e investimento",,7,5,8,20,731992,0,731992
+2020,3º,menos de quatro milhões de clientes,banco/financeira,11970623,"senff s.a. - crédito, financiamento e investimento",,4,3,9,16,70051,81,69974
+2020,3º,mais de quatro milhões de clientes,conglomerado, ,sicredi (conglomerado),0.19,1,1,1,3,5197523,5176329,164622
+2020,3º,menos de quatro milhões de clientes,conglomerado, ,sinosserra (conglomerado),,0,2,0,2,7849,80,7770
+2020,3º,menos de quatro milhões de clientes,conglomerado, ,societe generale (conglomerado),,0,3,0,3,714,571,183
+2020,3º,menos de quatro milhões de clientes,banco/financeira,03881423,"socinal s.a. - crédito, financiamento e investimento",,3,3,6,12,4742,2380,2363
+2020,3º,menos de quatro milhões de clientes,conglomerado, ,sofisa (conglomerado),,17,19,44,80,273589,262899,16106
+2020,3º,menos de quatro milhões de clientes,conglomerado, ,sorocred (conglomerado),,4,19,32,55,491804,1218,490642
+2020,3º,menos de quatro milhões de clientes,banco/financeira,09473806,"todescredi s/a - crédito, financiamento e investimento",,0,0,1,1,36019,4,36015
+2020,3º,menos de quatro milhões de clientes,banco/financeira,05192316,"via certa financiadora s.a. - crédito, financiamento e investimentos",,0,2,0,2,409428,994,408436
+2020,3º,menos de quatro milhões de clientes,conglomerado, ,volkswagen (conglomerado),115.96,45,18,55,118,388049,1398,386950
+2020,3º,menos de quatro milhões de clientes,conglomerado, ,volvo (conglomerado),,0,1,2,3,7713,81,7706
+2020,3º,mais de quatro milhões de clientes,conglomerado, ,votorantim (conglomerado),6.1,67,294,529,890,10966653,7373002,4214185
+2020,3º,menos de quatro milhões de clientes,conglomerado, ,western union (conglomerado),,1,1,1,3,1,1,0
+2020,3º,menos de quatro milhões de clientes,conglomerado, ,yamaha motor (conglomerado),,9,4,14,27,190240,46,190200
+2020,4º,grupo secundário,conglomerado, ,abc-brasil (conglomerado),,0,1,1,2,25273,23714,3767
+2020,4º,grupo secundário,conglomerado, ,agibank (conglomerado),58.71,60,165,70,295,1021954,727996,679619
+2020,4º,grupo secundário,banco/financeira,36321990,"agoracred s/a sociedade de crédito, financiamento e investimento",,2,0,2,4,403883,130,403753
+2020,4º,grupo secundário,banco/financeira,27214112,"al5 s.a. crédito, financiamento e investimento",,3,4,3,10,11782,3941,9954
+2020,4º,grupo secundário,conglomerado, ,alfa (conglomerado),,17,52,18,87,413132,268157,146146
+2020,4º,grupo secundário,conglomerado, ,andbank (conglomerado),,0,1,0,1,4309,4308,57
+2020,4º,grupo secundário,banco/financeira,03532415,banco abn amro s.a.,,0,1,0,1,156,121,39
+2020,4º,grupo secundário,banco/financeira,54403563,banco arbi s.a.,,0,3,0,3,14968,5688,9349
+2020,4º,grupo secundário,banco/financeira,02992446,banco cnh industrial capital s.a.,,0,0,1,1,27778,1239,26829
+2020,4º,grupo secundário,banco/financeira,08357240,banco csf s.a.,15.86,119,57,53,229,7498821,0,7498821
+2020,4º,grupo secundário,banco/financeira,04902979,banco da amazonia s.a.,,4,5,11,20,539668,456187,195851
+2020,4º,grupo secundário,banco/financeira,05040481,banco de lage landen brasil s.a.,,0,0,1,1,36118,3,36116
+2020,4º,grupo secundário,banco/financeira,92874270,banco digimais s.a.,237.78,64,20,44,128,269148,146692,168323
+2020,4º,grupo secundário,banco/financeira,27098060,banco digio s.a.,27.32,40,79,77,196,1463953,433989,1431293
+2020,4º,grupo secundário,banco/financeira,13009717,banco do estado de sergipe s.a.,,22,15,11,48,1078832,850466,596990
+2020,4º,grupo secundário,banco/financeira,04913711,banco do estado do pará s.a.,,19,24,11,54,846240,759834,347199
+2020,4º,top 10,banco/financeira,07237373,banco do nordeste do brasil s.a.,1.07,9,17,14,40,8360626,7778242,3070108
+2020,4º,grupo secundário,banco/financeira,58616418,banco fibra s.a.,,0,1,1,2,163880,4200,160227
+2020,4º,grupo secundário,banco/financeira,04866275,banco inbursa s.a.,,0,1,0,1,12299,11,12290
+2020,4º,grupo secundário,banco/financeira,91884981,banco john deere s.a.,,0,1,0,1,14944,254,14755
+2020,4º,grupo secundário,banco/financeira,59118133,banco luso brasileiro s.a.,,0,1,0,1,10292,4735,5928
+2020,4º,grupo secundário,banco/financeira,78632767,banco ourinvest s.a.,,0,1,2,3,40862,38471,2419
+2020,4º,grupo secundário,banco/financeira,00517645,banco ribeirao preto s.a.,,1,0,0,1,4495,4286,2466
+2020,4º,grupo secundário,banco/financeira,00795423,banco semear s.a.,,1,2,3,6,291493,2840,288798
+2020,4º,grupo secundário,banco/financeira,11970623,banco senff s.a.,,1,1,4,6,74085,81,74007
+2020,4º,grupo secundário,banco/financeira,07679404,banco topázio s.a.,,0,5,3,8,43545,19468,26435
+2020,4º,grupo secundário,banco/financeira,03215790,banco toyota do brasil s.a.,,0,1,0,1,168403,15279,154111
+2020,4º,grupo secundário,banco/financeira,17351180,banco triangulo s.a.,,9,12,10,31,1908267,260287,1716343
+2020,4º,grupo secundário,conglomerado, ,bancoob (conglomerado),,12,18,12,42,4382389,2182043,2721347
+2020,4º,grupo secundário,conglomerado, ,banestes (conglomerado),,17,36,30,83,1324663,1278941,472422
+2020,4º,grupo secundário,conglomerado, ,banrisul (conglomerado),19.69,101,415,85,601,5127105,3807604,4001476
+2020,4º,grupo secundário,conglomerado, ,barigui (conglomerado),,7,11,5,23,29053,2613,27490
+2020,4º,top 10,conglomerado, ,bb (conglomerado),22.63,1562,2345,3988,7895,69012481,65327641,29785719
+2020,4º,grupo secundário,conglomerado, ,bmg (conglomerado),265.22,1605,924,350,2879,6051361,2102278,5091100
+2020,4º,grupo secundário,conglomerado, ,bmw (conglomerado),,3,1,0,4,27918,25593,22065
+2020,4º,grupo secundário,conglomerado, ,bnp paribas (conglomerado),274.08,692,305,139,1136,2524748,12920,2512339
+2020,4º,top 10,conglomerado, ,bradesco (conglomerado),16.96,1686,4286,5484,11456,99362077,90353898,43818537
+2020,4º,grupo secundário,conglomerado, ,brb (conglomerado),86.26,89,189,144,422,1031692,919458,456113
+2020,4º,grupo secundário,conglomerado, ,btg pactual (conglomerado),,2,12,11,25,577341,486887,102037
+2020,4º,grupo secundário,conglomerado, ,c6 bank (conglomerado),1779.55,7802,485,154,8441,4384238,3708231,1162006
+2020,4º,top 10,conglomerado, ,caixa econômica federal (conglomerado),30.85,4442,5848,12161,22451,143971402,142397281,22760062
+2020,4º,grupo secundário,banco/financeira,09313766,"caruana s.a. - sociedade de crédito, financiamento e investimento",,1,3,5,9,68467,61484,12284
+2020,4º,grupo secundário,conglomerado, ,ccb (conglomerado),,4,113,13,130,233426,3852,230184
+2020,4º,grupo secundário,conglomerado, ,citibank (conglomerado),,0,5,5,10,18055,17396,1560
+2020,4º,grupo secundário,banco/financeira,05676026,"crediare s.a. - crédito, financiamento e investimento",,0,7,0,7,301319,0,301319
+2020,4º,grupo secundário,conglomerado, ,crefisa (conglomerado),18.53,39,217,70,326,2103967,1032608,1553321
+2020,4º,grupo secundário,conglomerado, ,daycoval (conglomerado),223.76,268,590,98,956,1197696,125243,1094926
+2020,4º,grupo secundário,banco/financeira,15581638,facta financeira s.a. - crédito financiamento e investimento,1833.37,201,621,22,844,109634,653,108984
+2020,4º,grupo secundário,banco/financeira,00411939,"finamax s.a. - credito, financiamento e investimento",,0,1,2,3,88736,1724,87076
+2020,4º,grupo secundário,conglomerado, ,gazin (conglomerado),,0,4,0,4,34215,285,33952
+2020,4º,grupo secundário,conglomerado, ,gm (conglomerado),,4,17,11,32,315323,469,314933
+2020,4º,grupo secundário,conglomerado, ,grupo bonsucesso - bs2 (conglomerado),,23,77,30,130,671638,665357,14758
+2020,4º,grupo secundário,conglomerado, ,grupo zema (conglomerado),,1,3,3,7,430720,570,430153
+2020,4º,grupo secundário,conglomerado, ,herval - hs (conglomerado),,0,1,2,3,199008,597,198480
+2020,4º,grupo secundário,conglomerado, ,honda (conglomerado),,5,2,2,9,457389,86,457358
+2020,4º,grupo secundário,conglomerado, ,industrial do brasil (conglomerado),,20,18,1,39,62334,4421,58734
+2020,4º,top 10,conglomerado, ,inter (conglomerado),111.52,900,360,374,1634,8069837,7932480,1314190
+2020,4º,top 10,conglomerado, ,itau (conglomerado),31.0,2594,4201,4918,11713,83674760,65173609,49165771
+2020,4º,grupo secundário,banco/financeira,04230630,"jbcred s.a. sociedade de credito, financiamento e investimento",,2,5,4,11,124058,0,124058
+2020,4º,grupo secundário,banco/financeira,06040559,"kredilig s.a. - crédito, financiamento e investimento",,0,2,0,2,297934,4,297932
+2020,4º,grupo secundário,banco/financeira,11271860,"lebes financeira s.a. - crédito, financiamento e investimento",,1,2,1,4,215531,4,215527
+2020,4º,grupo secundário,conglomerado, ,lecca (conglomerado),,4,0,1,5,1112,1112,0
+2020,4º,grupo secundário,conglomerado, ,máxima (conglomerado),332.74,35,44,12,91,105185,4416,100909
+2020,4º,grupo secundário,conglomerado, ,mercantil do brasil (conglomerado),50.14,168,59,39,266,3350261,2826418,1671736
+2020,4º,top 10,banco/financeira,09464032,"midway s.a. - crédito, financiamento e investimento",3.15,34,102,75,211,10768835,107,10768802
+2020,4º,grupo secundário,conglomerado, ,modal (conglomerado),,14,50,27,91,980579,980516,14951
+2020,4º,grupo secundário,banco/financeira,04379829,"negresco s.a. - credito, financiamento e investimentos",,0,4,1,5,594891,672,594220
+2020,4º,grupo secundário,banco/financeira,74828799,novo banco continental s.a. - banco múltiplo,,23,50,1,74,85994,3045,83370
+2020,4º,top 10,conglomerado, ,nubank (conglomerado),0.09,1,2,4,7,10124543,10124543,0
+2020,4º,grupo secundário,conglomerado, ,omni (conglomerado),,22,58,59,139,4606413,5723,4602491
+2020,4º,grupo secundário,conglomerado, ,original (conglomerado),48.28,175,261,321,757,3624293,3414482,631541
+2020,4º,grupo secundário,conglomerado, ,pagbank-pagseguro (conglomerado),,1,3,1,5,1816868,1812526,4553
+2020,4º,grupo secundário,conglomerado, ,pan (conglomerado),655.6,4643,1875,1096,7614,7081960,1837923,5797644
+2020,4º,grupo secundário,conglomerado, ,paraná banco (conglomerado),467.08,225,509,59,793,481712,9567,472409
+2020,4º,grupo secundário,banco/financeira,03311443,"parati - credito, financiamento e investimento s.a.",,6,6,0,12,3843,0,3843
+2020,4º,grupo secundário,banco/financeira,43180355,"pefisa s.a. - crédito, financiamento e investimento",11.86,70,63,38,171,5897857,5442259,2796679
+2020,4º,grupo secundário,conglomerado, ,pine (conglomerado),,0,3,0,3,11580,10424,1783
+2020,4º,grupo secundário,conglomerado, ,plural (conglomerado),,2,0,0,2,5391,5388,33
+2020,4º,grupo secundário,conglomerado, ,porto seguro (conglomerado),17.94,47,58,69,174,2619755,0,2619755
+2020,4º,grupo secundário,banco/financeira,01800019,"portocred s.a. - credito, financiamento e investimento",192.75,45,52,29,126,233452,3783,229673
+2020,4º,grupo secundário,banco/financeira,27351731,"realize crédito, financiamento e investimento s.a.",,19,46,29,94,4891419,17,4891404
+2020,4º,grupo secundário,conglomerado, ,rendimento (conglomerado),,0,4,1,5,24387,20426,6678
+2020,4º,grupo secundário,conglomerado, ,rodobens (conglomerado),,2,0,2,4,13380,1636,12166
+2020,4º,grupo secundário,conglomerado, ,safra (conglomerado),376.1,1144,1173,588,2905,3041720,1293351,1936501
+2020,4º,grupo secundário,banco/financeira,05503849,"santana s.a. - crédito, financiamento e investimento",,1,6,2,9,29144,1260,27885
+2020,4º,top 10,conglomerado, ,santander (conglomerado),29.91,1524,3483,3970,8977,50947844,42549085,24885068
+2020,4º,grupo secundário,banco/financeira,00122327,"santinvest s.a. - credito, financiamento e investimentos",,0,4,0,4,14232,678,13554
+2020,4º,grupo secundário,banco/financeira,07747410,"sax s.a. - crédito, financiamento e investimento",,4,3,5,12,769433,0,769433
+2020,4º,grupo secundário,conglomerado, ,sicredi (conglomerado),,0,1,3,4,5384094,5363014,173075
+2020,4º,grupo secundário,banco/financeira,03881423,"socinal s.a. - crédito, financiamento e investimento",,1,2,5,8,3677,2123,1554
+2020,4º,grupo secundário,conglomerado, ,sofisa (conglomerado),,13,12,22,47,296505,286976,15724
+2020,4º,grupo secundário,conglomerado, ,sorocred (conglomerado),,12,24,25,61,635288,1205,634147
+2020,4º,grupo secundário,banco/financeira,09473806,"todescredi s/a - crédito, financiamento e investimento",,0,2,0,2,37953,4,37949
+2020,4º,grupo secundário,conglomerado, ,ubs (conglomerado),,0,0,1,1,0,0,0
+2020,4º,grupo secundário,banco/financeira,05192316,"via certa financiadora s.a. - crédito, financiamento e investimentos",,1,2,1,4,408700,1006,407697
+2020,4º,grupo secundário,conglomerado, ,volkswagen (conglomerado),,11,12,33,56,385252,1272,384278
+2020,4º,grupo secundário,conglomerado, ,volvo (conglomerado),,1,0,1,2,7736,87,7727
+2020,4º,top 10,conglomerado, ,votorantim (conglomerado),4.42,58,290,313,661,13112975,9547100,4415130
+2020,4º,grupo secundário,conglomerado, ,western union (conglomerado),,5,3,9,17,1,1,0
+2020,4º,grupo secundário,banco/financeira,23862762,"will financeira s.a. crédito, financiamento e investimento",,8,4,1,13,1419721,1418079,234488
+2020,4º,grupo secundário,conglomerado, ,yamaha motor (conglomerado),,7,0,8,15,194991,50,194948
 2020,1º,menos de quatro milhões de clientes,conglomerado, ,abc-brasil (conglomerado),,0,5,3,8,20209,18725,3175
 2020,1º,menos de quatro milhões de clientes,conglomerado, ,agibank (conglomerado),67.19,74,231,55,360,1101269,650657,823093
 2020,1º,menos de quatro milhões de clientes,banco/financeira,36321990,"agoracred s/a sociedade de crédito, financiamento e investimento",,2,0,0,2,370789,134,370655
@@ -103,107 +316,117 @@ ano,trimestre,categoria,tipo,cnpj_if,instituicao_financeira,indice,quantidade_de
 2020,1º,mais de quatro milhões de clientes,conglomerado, ,votorantim (conglomerado),11.14,95,205,281,581,8527116,4863899,4064028
 2020,1º,menos de quatro milhões de clientes,conglomerado, ,western union (conglomerado),,3,4,2,9,1,1,0
 2020,1º,menos de quatro milhões de clientes,conglomerado, ,yamaha motor (conglomerado),,0,2,13,15,181066,44,181028
-2020,4º,grupo secundário,conglomerado, ,abc-brasil (conglomerado),,0,1,1,2,25273,23714,3767
-2020,4º,grupo secundário,conglomerado, ,agibank (conglomerado),58.71,60,165,70,295,1021954,727996,679619
-2020,4º,grupo secundário,banco/financeira,36321990,"agoracred s/a sociedade de crédito, financiamento e investimento",,2,0,2,4,403883,130,403753
-2020,4º,grupo secundário,banco/financeira,27214112,"al5 s.a. crédito, financiamento e investimento",,3,4,3,10,11782,3941,9954
-2020,4º,grupo secundário,conglomerado, ,alfa (conglomerado),,17,52,18,87,413132,268157,146146
-2020,4º,grupo secundário,conglomerado, ,andbank (conglomerado),,0,1,0,1,4309,4308,57
-2020,4º,grupo secundário,banco/financeira,03532415,banco abn amro s.a.,,0,1,0,1,156,121,39
-2020,4º,grupo secundário,banco/financeira,54403563,banco arbi s.a.,,0,3,0,3,14968,5688,9349
-2020,4º,grupo secundário,banco/financeira,02992446,banco cnh industrial capital s.a.,,0,0,1,1,27778,1239,26829
-2020,4º,grupo secundário,banco/financeira,08357240,banco csf s.a.,15.86,119,57,53,229,7498821,0,7498821
-2020,4º,grupo secundário,banco/financeira,04902979,banco da amazonia s.a.,,4,5,11,20,539668,456187,195851
-2020,4º,grupo secundário,banco/financeira,05040481,banco de lage landen brasil s.a.,,0,0,1,1,36118,3,36116
-2020,4º,grupo secundário,banco/financeira,92874270,banco digimais s.a.,237.78,64,20,44,128,269148,146692,168323
-2020,4º,grupo secundário,banco/financeira,27098060,banco digio s.a.,27.32,40,79,77,196,1463953,433989,1431293
-2020,4º,grupo secundário,banco/financeira,13009717,banco do estado de sergipe s.a.,,22,15,11,48,1078832,850466,596990
-2020,4º,grupo secundário,banco/financeira,04913711,banco do estado do pará s.a.,,19,24,11,54,846240,759834,347199
-2020,4º,top 10,banco/financeira,07237373,banco do nordeste do brasil s.a.,1.07,9,17,14,40,8360626,7778242,3070108
-2020,4º,grupo secundário,banco/financeira,58616418,banco fibra s.a.,,0,1,1,2,163880,4200,160227
-2020,4º,grupo secundário,banco/financeira,04866275,banco inbursa s.a.,,0,1,0,1,12299,11,12290
-2020,4º,grupo secundário,banco/financeira,91884981,banco john deere s.a.,,0,1,0,1,14944,254,14755
-2020,4º,grupo secundário,banco/financeira,59118133,banco luso brasileiro s.a.,,0,1,0,1,10292,4735,5928
-2020,4º,grupo secundário,banco/financeira,78632767,banco ourinvest s.a.,,0,1,2,3,40862,38471,2419
-2020,4º,grupo secundário,banco/financeira,00517645,banco ribeirao preto s.a.,,1,0,0,1,4495,4286,2466
-2020,4º,grupo secundário,banco/financeira,00795423,banco semear s.a.,,1,2,3,6,291493,2840,288798
-2020,4º,grupo secundário,banco/financeira,11970623,banco senff s.a.,,1,1,4,6,74085,81,74007
-2020,4º,grupo secundário,banco/financeira,07679404,banco topázio s.a.,,0,5,3,8,43545,19468,26435
-2020,4º,grupo secundário,banco/financeira,03215790,banco toyota do brasil s.a.,,0,1,0,1,168403,15279,154111
-2020,4º,grupo secundário,banco/financeira,17351180,banco triangulo s.a.,,9,12,10,31,1908267,260287,1716343
-2020,4º,grupo secundário,conglomerado, ,bancoob (conglomerado),,12,18,12,42,4382389,2182043,2721347
-2020,4º,grupo secundário,conglomerado, ,banestes (conglomerado),,17,36,30,83,1324663,1278941,472422
-2020,4º,grupo secundário,conglomerado, ,banrisul (conglomerado),19.69,101,415,85,601,5127105,3807604,4001476
-2020,4º,grupo secundário,conglomerado, ,barigui (conglomerado),,7,11,5,23,29053,2613,27490
-2020,4º,top 10,conglomerado, ,bb (conglomerado),22.63,1562,2345,3988,7895,69012481,65327641,29785719
-2020,4º,grupo secundário,conglomerado, ,bmg (conglomerado),265.22,1605,924,350,2879,6051361,2102278,5091100
-2020,4º,grupo secundário,conglomerado, ,bmw (conglomerado),,3,1,0,4,27918,25593,22065
-2020,4º,grupo secundário,conglomerado, ,bnp paribas (conglomerado),274.08,692,305,139,1136,2524748,12920,2512339
-2020,4º,top 10,conglomerado, ,bradesco (conglomerado),16.96,1686,4286,5484,11456,99362077,90353898,43818537
-2020,4º,grupo secundário,conglomerado, ,brb (conglomerado),86.26,89,189,144,422,1031692,919458,456113
-2020,4º,grupo secundário,conglomerado, ,btg pactual (conglomerado),,2,12,11,25,577341,486887,102037
-2020,4º,grupo secundário,conglomerado, ,c6 bank (conglomerado),1779.55,7802,485,154,8441,4384238,3708231,1162006
-2020,4º,top 10,conglomerado, ,caixa econômica federal (conglomerado),30.85,4442,5848,12161,22451,143971402,142397281,22760062
-2020,4º,grupo secundário,banco/financeira,09313766,"caruana s.a. - sociedade de crédito, financiamento e investimento",,1,3,5,9,68467,61484,12284
-2020,4º,grupo secundário,conglomerado, ,ccb (conglomerado),,4,113,13,130,233426,3852,230184
-2020,4º,grupo secundário,conglomerado, ,citibank (conglomerado),,0,5,5,10,18055,17396,1560
-2020,4º,grupo secundário,banco/financeira,05676026,"crediare s.a. - crédito, financiamento e investimento",,0,7,0,7,301319,0,301319
-2020,4º,grupo secundário,conglomerado, ,crefisa (conglomerado),18.53,39,217,70,326,2103967,1032608,1553321
-2020,4º,grupo secundário,conglomerado, ,daycoval (conglomerado),223.76,268,590,98,956,1197696,125243,1094926
-2020,4º,grupo secundário,banco/financeira,15581638,facta financeira s.a. - crédito financiamento e investimento,1833.37,201,621,22,844,109634,653,108984
-2020,4º,grupo secundário,banco/financeira,00411939,"finamax s.a. - credito, financiamento e investimento",,0,1,2,3,88736,1724,87076
-2020,4º,grupo secundário,conglomerado, ,gazin (conglomerado),,0,4,0,4,34215,285,33952
-2020,4º,grupo secundário,conglomerado, ,gm (conglomerado),,4,17,11,32,315323,469,314933
-2020,4º,grupo secundário,conglomerado, ,grupo bonsucesso - bs2 (conglomerado),,23,77,30,130,671638,665357,14758
-2020,4º,grupo secundário,conglomerado, ,grupo zema (conglomerado),,1,3,3,7,430720,570,430153
-2020,4º,grupo secundário,conglomerado, ,herval - hs (conglomerado),,0,1,2,3,199008,597,198480
-2020,4º,grupo secundário,conglomerado, ,honda (conglomerado),,5,2,2,9,457389,86,457358
-2020,4º,grupo secundário,conglomerado, ,industrial do brasil (conglomerado),,20,18,1,39,62334,4421,58734
-2020,4º,top 10,conglomerado, ,inter (conglomerado),111.52,900,360,374,1634,8069837,7932480,1314190
-2020,4º,top 10,conglomerado, ,itau (conglomerado),31.0,2594,4201,4918,11713,83674760,65173609,49165771
-2020,4º,grupo secundário,banco/financeira,04230630,"jbcred s.a. sociedade de credito, financiamento e investimento",,2,5,4,11,124058,0,124058
-2020,4º,grupo secundário,banco/financeira,06040559,"kredilig s.a. - crédito, financiamento e investimento",,0,2,0,2,297934,4,297932
-2020,4º,grupo secundário,banco/financeira,11271860,"lebes financeira s.a. - crédito, financiamento e investimento",,1,2,1,4,215531,4,215527
-2020,4º,grupo secundário,conglomerado, ,lecca (conglomerado),,4,0,1,5,1112,1112,0
-2020,4º,grupo secundário,conglomerado, ,máxima (conglomerado),332.74,35,44,12,91,105185,4416,100909
-2020,4º,grupo secundário,conglomerado, ,mercantil do brasil (conglomerado),50.14,168,59,39,266,3350261,2826418,1671736
-2020,4º,top 10,banco/financeira,09464032,"midway s.a. - crédito, financiamento e investimento",3.15,34,102,75,211,10768835,107,10768802
-2020,4º,grupo secundário,conglomerado, ,modal (conglomerado),,14,50,27,91,980579,980516,14951
-2020,4º,grupo secundário,banco/financeira,04379829,"negresco s.a. - credito, financiamento e investimentos",,0,4,1,5,594891,672,594220
-2020,4º,grupo secundário,banco/financeira,74828799,novo banco continental s.a. - banco múltiplo,,23,50,1,74,85994,3045,83370
-2020,4º,top 10,conglomerado, ,nubank (conglomerado),0.09,1,2,4,7,10124543,10124543,0
-2020,4º,grupo secundário,conglomerado, ,omni (conglomerado),,22,58,59,139,4606413,5723,4602491
-2020,4º,grupo secundário,conglomerado, ,original (conglomerado),48.28,175,261,321,757,3624293,3414482,631541
-2020,4º,grupo secundário,conglomerado, ,pagbank-pagseguro (conglomerado),,1,3,1,5,1816868,1812526,4553
-2020,4º,grupo secundário,conglomerado, ,pan (conglomerado),655.6,4643,1875,1096,7614,7081960,1837923,5797644
-2020,4º,grupo secundário,conglomerado, ,paraná banco (conglomerado),467.08,225,509,59,793,481712,9567,472409
-2020,4º,grupo secundário,banco/financeira,03311443,"parati - credito, financiamento e investimento s.a.",,6,6,0,12,3843,0,3843
-2020,4º,grupo secundário,banco/financeira,43180355,"pefisa s.a. - crédito, financiamento e investimento",11.86,70,63,38,171,5897857,5442259,2796679
-2020,4º,grupo secundário,conglomerado, ,pine (conglomerado),,0,3,0,3,11580,10424,1783
-2020,4º,grupo secundário,conglomerado, ,plural (conglomerado),,2,0,0,2,5391,5388,33
-2020,4º,grupo secundário,conglomerado, ,porto seguro (conglomerado),17.94,47,58,69,174,2619755,0,2619755
-2020,4º,grupo secundário,banco/financeira,01800019,"portocred s.a. - credito, financiamento e investimento",192.75,45,52,29,126,233452,3783,229673
-2020,4º,grupo secundário,banco/financeira,27351731,"realize crédito, financiamento e investimento s.a.",,19,46,29,94,4891419,17,4891404
-2020,4º,grupo secundário,conglomerado, ,rendimento (conglomerado),,0,4,1,5,24387,20426,6678
-2020,4º,grupo secundário,conglomerado, ,rodobens (conglomerado),,2,0,2,4,13380,1636,12166
-2020,4º,grupo secundário,conglomerado, ,safra (conglomerado),376.1,1144,1173,588,2905,3041720,1293351,1936501
-2020,4º,grupo secundário,banco/financeira,05503849,"santana s.a. - crédito, financiamento e investimento",,1,6,2,9,29144,1260,27885
-2020,4º,top 10,conglomerado, ,santander (conglomerado),29.91,1524,3483,3970,8977,50947844,42549085,24885068
-2020,4º,grupo secundário,banco/financeira,00122327,"santinvest s.a. - credito, financiamento e investimentos",,0,4,0,4,14232,678,13554
-2020,4º,grupo secundário,banco/financeira,07747410,"sax s.a. - crédito, financiamento e investimento",,4,3,5,12,769433,0,769433
-2020,4º,grupo secundário,conglomerado, ,sicredi (conglomerado),,0,1,3,4,5384094,5363014,173075
-2020,4º,grupo secundário,banco/financeira,03881423,"socinal s.a. - crédito, financiamento e investimento",,1,2,5,8,3677,2123,1554
-2020,4º,grupo secundário,conglomerado, ,sofisa (conglomerado),,13,12,22,47,296505,286976,15724
-2020,4º,grupo secundário,conglomerado, ,sorocred (conglomerado),,12,24,25,61,635288,1205,634147
-2020,4º,grupo secundário,banco/financeira,09473806,"todescredi s/a - crédito, financiamento e investimento",,0,2,0,2,37953,4,37949
-2020,4º,grupo secundário,conglomerado, ,ubs (conglomerado),,0,0,1,1,0,0,0
-2020,4º,grupo secundário,banco/financeira,05192316,"via certa financiadora s.a. - crédito, financiamento e investimentos",,1,2,1,4,408700,1006,407697
-2020,4º,grupo secundário,conglomerado, ,volkswagen (conglomerado),,11,12,33,56,385252,1272,384278
-2020,4º,grupo secundário,conglomerado, ,volvo (conglomerado),,1,0,1,2,7736,87,7727
-2020,4º,top 10,conglomerado, ,votorantim (conglomerado),4.42,58,290,313,661,13112975,9547100,4415130
-2020,4º,grupo secundário,conglomerado, ,western union (conglomerado),,5,3,9,17,1,1,0
-2020,4º,grupo secundário,banco/financeira,23862762,"will financeira s.a. crédito, financiamento e investimento",,8,4,1,13,1419721,1418079,234488
-2020,4º,grupo secundário,conglomerado, ,yamaha motor (conglomerado),,7,0,8,15,194991,50,194948
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,abc-brasil (conglomerado),,1,0,1,2,21754,20276,3184
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,agibank (conglomerado),61.19,67,237,87,391,1094818,655307,836854
+2020,2º,menos de quatro milhões de clientes,banco/financeira,36321990,"agoracred s/a sociedade de crédito, financiamento e investimento",,0,3,0,3,373794,134,373661
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,alfa (conglomerado),,12,35,35,82,412199,268126,145228
+2020,2º,menos de quatro milhões de clientes,banco/financeira,27214112,"amaggi s.a. - crédito, financiamento e investimento",,1,1,3,5,8250,29,8231
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,andbank (conglomerado),,0,1,2,3,3991,3991,0
+2020,2º,menos de quatro milhões de clientes,banco/financeira,23862762,"avista s.a. crédito, financiamento e investimento",,11,3,11,25,1221120,1221120,0
+2020,2º,menos de quatro milhões de clientes,banco/financeira,54403563,banco arbi s.a.,,1,1,0,2,12624,3496,9192
+2020,2º,menos de quatro milhões de clientes,banco/financeira,02992446,banco cnh industrial capital s.a.,,1,0,5,6,26121,1239,25195
+2020,2º,mais de quatro milhões de clientes,banco/financeira,08357240,banco csf s.a.,16.59,122,143,122,387,7350474,0,7350474
+2020,2º,menos de quatro milhões de clientes,banco/financeira,04902979,banco da amazonia s.a.,,2,5,12,19,508852,448971,152171
+2020,2º,menos de quatro milhões de clientes,banco/financeira,33042151,banco de la nacion argentina,,1,0,0,1,226,212,25
+2020,2º,menos de quatro milhões de clientes,banco/financeira,05040481,banco de lage landen brasil s.a.,,0,0,2,2,35889,2,35887
+2020,2º,menos de quatro milhões de clientes,banco/financeira,92874270,banco digimais s.a.,340.24,83,17,54,154,243941,123760,157649
+2020,2º,menos de quatro milhões de clientes,banco/financeira,27098060,banco digio s.a.,19.03,26,66,59,151,1366248,166570,1357998
+2020,2º,menos de quatro milhões de clientes,banco/financeira,13009717,banco do estado de sergipe s.a.,,7,14,43,64,879777,879777,0
+2020,2º,menos de quatro milhões de clientes,banco/financeira,04913711,banco do estado do pará s.a.,19.41,15,19,25,59,772617,719581,309266
+2020,2º,mais de quatro milhões de clientes,banco/financeira,07237373,banco do nordeste do brasil s.a.,0.86,7,23,44,74,8061030,7476513,2934554
+2020,2º,menos de quatro milhões de clientes,banco/financeira,58616418,banco fibra s.a.,,0,1,1,2,163909,4067,160338
+2020,2º,menos de quatro milhões de clientes,banco/financeira,61348538,banco ficsa s.a.,,4,0,0,4,38706,611,38097
+2020,2º,menos de quatro milhões de clientes,banco/financeira,90731688,banco ford s.a.,,1,1,2,4,402,186,229
+2020,2º,menos de quatro milhões de clientes,banco/financeira,04866275,banco inbursa s.a.,,1,0,2,3,11904,7,11897
+2020,2º,menos de quatro milhões de clientes,banco/financeira,91884981,banco john deere s.a.,,0,1,0,1,14489,254,14302
+2020,2º,menos de quatro milhões de clientes,banco/financeira,59118133,banco luso brasileiro s.a.,,0,0,1,1,10297,4757,5916
+2020,2º,menos de quatro milhões de clientes,banco/financeira,07441209,banco moneo s.a.,,1,0,0,1,1234,4,1232
+2020,2º,menos de quatro milhões de clientes,banco/financeira,78632767,banco ourinvest s.a.,,0,0,1,1,38281,35380,2929
+2020,2º,menos de quatro milhões de clientes,banco/financeira,00517645,banco ribeirao preto s.a.,,1,0,1,2,4865,4592,2892
+2020,2º,menos de quatro milhões de clientes,banco/financeira,00795423,banco semear s.a.,,0,3,4,7,255199,2832,252479
+2020,2º,menos de quatro milhões de clientes,banco/financeira,07679404,banco topázio s.a.,,0,0,2,2,21801,16650,8096
+2020,2º,menos de quatro milhões de clientes,banco/financeira,03215790,banco toyota do brasil s.a.,,8,5,43,56,175692,15287,161520
+2020,2º,menos de quatro milhões de clientes,banco/financeira,17351180,banco triangulo s.a.,,7,15,10,32,1968256,219922,1784889
+2020,2º,menos de quatro milhões de clientes,banco/financeira,57839805,banco tricury s.a.,,0,1,0,1,676,658,155
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,bancoob (conglomerado),,8,18,14,40,3886472,1940646,2356172
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,banestes (conglomerado),,10,8,20,38,1303144,1257492,467135
+2020,2º,mais de quatro milhões de clientes,conglomerado, ,banrisul (conglomerado),19.83,100,360,185,645,5042321,3762175,3969611
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,barigui (conglomerado),,7,6,6,19,27474,1034,26501
+2020,2º,mais de quatro milhões de clientes,conglomerado, ,bb (conglomerado),22.76,1527,2628,4367,8522,67076893,63425558,29313144
+2020,2º,menos de quatro milhões de clientes,banco/financeira,45283173,bbva brasil banco de investimento s.a.,,0,0,2,2,0,0,0
+2020,2º,menos de quatro milhões de clientes,banco/financeira,20443996,"becker financeira s.a. - crédito, financiamento e investimento",,0,1,0,1,44089,6,44083
+2020,2º,menos de quatro milhões de clientes,banco/financeira,11285104,"biorc financeira - crédito, financiamento e investimento s.a.",,0,0,3,3,10899,10,10889
+2020,2º,mais de quatro milhões de clientes,conglomerado, ,bmg (conglomerado),99.8,520,518,505,1543,5210230,1120487,4874418
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,bmw (conglomerado),,1,0,5,6,24426,23847,20243
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,bnp paribas (conglomerado),268.59,719,326,222,1267,2676922,12879,2664575
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,bofa merrill lynch (conglomerado),,1,0,0,1,1604,1598,97
+2020,2º,mais de quatro milhões de clientes,conglomerado, ,bradesco (conglomerado),24.35,2408,4154,4888,11450,98855959,88952453,44997989
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,brb (conglomerado),69.12,64,130,199,393,925870,814338,426317
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,btg pactual (conglomerado),,8,9,9,26,424827,318699,107760
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,c6 bank (conglomerado),64.37,118,144,85,347,1833081,1819900,202030
+2020,2º,mais de quatro milhões de clientes,conglomerado, ,caixa econômica federal (conglomerado),26.45,3053,8334,12223,23610,115407209,112696979,21658027
+2020,2º,menos de quatro milhões de clientes,banco/financeira,09313766,"caruana s.a. - sociedade de crédito, financiamento e investimento",,2,3,2,7,63739,56525,12876
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,ccb (conglomerado),,6,77,47,130,253956,3597,250978
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,citibank (conglomerado),,0,2,3,5,19435,19370,70
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,crefisa (conglomerado),17.3,31,148,69,248,1791322,682223,1603727
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,daycoval (conglomerado),41.06,50,308,296,654,1217663,104416,1127189
+2020,2º,menos de quatro milhões de clientes,banco/financeira,15581638,facta financeira s.a. - crédito financiamento e investimento,559.96,54,238,10,302,96434,623,95815
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,fator (conglomerado),,0,1,0,1,16675,16672,19
+2020,2º,menos de quatro milhões de clientes,banco/financeira,00411939,"finamax s.a. - credito, financiamento e investimento",,0,0,6,6,97339,1771,95637
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,gm (conglomerado),72.55,24,10,176,210,330771,462,330392
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,grupo bonsucesso - bs2 (conglomerado),44.63,20,34,21,75,448029,441333,8183
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,grupo zema (conglomerado),,0,1,1,2,410773,562,410214
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,herval - hs (conglomerado),,6,1,3,10,197488,568,196974
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,honda (conglomerado),,7,6,45,58,478950,70,478917
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,industrial do brasil (conglomerado),235.01,15,28,4,47,63827,3946,60430
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,indusval (conglomerado),,6,0,1,7,5169,4334,1160
+2020,2º,mais de quatro milhões de clientes,conglomerado, ,inter (conglomerado),97.92,557,402,442,1401,5688290,5531460,914226
+2020,2º,mais de quatro milhões de clientes,conglomerado, ,itau (conglomerado),21.09,1750,4649,3435,9834,82959663,63654317,50400471
+2020,2º,menos de quatro milhões de clientes,banco/financeira,04230630,"jbcred s.a. sociedade de credito, financiamento e investimento",,0,3,5,8,125684,0,125684
+2020,2º,menos de quatro milhões de clientes,banco/financeira,06040559,"kredilig s.a. - crédito, financiamento e investimento",,0,1,0,1,265138,4,265135
+2020,2º,menos de quatro milhões de clientes,banco/financeira,11271860,"lebes financeira s.a. - crédito, financiamento e investimento",,0,1,0,1,205116,4,205112
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,lecca (conglomerado),,9,0,10,19,25656,1112,24545
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,máxima (conglomerado),,9,11,5,25,83947,10717,73378
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,mercantil do brasil (conglomerado),30.73,99,88,69,256,3221087,2713917,1567402
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,mercedes-benz (conglomerado),,5,1,9,15,20615,171,20526
+2020,2º,mais de quatro milhões de clientes,banco/financeira,09464032,"midway s.a. - crédito, financiamento e investimento",3.13,35,135,107,277,11177083,77,11177064
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,modal (conglomerado),35.7,26,42,52,120,728248,728201,9528
+2020,2º,menos de quatro milhões de clientes,banco/financeira,04379829,"negresco s.a. - credito, financiamento e investimentos",,1,1,0,2,580365,670,579695
+2020,2º,menos de quatro milhões de clientes,banco/financeira,74828799,novo banco continental s.a. - banco múltiplo,225.43,18,59,5,82,79846,3103,77170
+2020,2º,mais de quatro milhões de clientes,conglomerado, ,nubank (conglomerado),0.18,1,5,5,11,5367754,5353986,73153
+2020,2º,mais de quatro milhões de clientes,conglomerado, ,omni (conglomerado),12.07,55,61,100,216,4553588,3408,4550817
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,original (conglomerado),30.97,97,226,224,547,3131942,3016464,461678
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,pagbank-pagseguro (conglomerado),,0,3,0,3,935179,932502,2704
+2020,2º,mais de quatro milhões de clientes,conglomerado, ,pan (conglomerado),158.89,794,1072,2941,4807,4996952,467854,4701347
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,paraná banco (conglomerado),122.22,53,199,88,340,433617,9072,424826
+2020,2º,menos de quatro milhões de clientes,banco/financeira,03311443,"parati - credito, financiamento e investimento s.a.",,0,1,0,1,1009,0,1009
+2020,2º,menos de quatro milhões de clientes,banco/financeira,43180355,"pernambucanas financiadora s.a. - crédito, financiamento e investimento",19.25,64,64,40,168,3322987,1441913,2556685
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,pine (conglomerado),,1,1,0,2,11077,10051,1618
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,plural (conglomerado),,0,2,0,2,5003,5003,36
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,porto seguro (conglomerado),20.78,50,67,83,200,2405064,0,2405064
+2020,2º,menos de quatro milhões de clientes,banco/financeira,01800019,"portocred s.a. - credito, financiamento e investimento",,14,17,30,61,251875,3783,248096
+2020,2º,mais de quatro milhões de clientes,banco/financeira,27351731,"realize crédito, financiamento e investimento s.a.",3.55,17,39,34,90,4784859,17,4784844
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,rendimento (conglomerado),,1,2,2,5,22654,18171,7223
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,rodobens (conglomerado),,1,2,3,6,12852,1688,11612
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,safra (conglomerado),281.78,771,934,1221,2926,2736115,1141492,1742824
+2020,2º,menos de quatro milhões de clientes,banco/financeira,05503849,"santana s.a. - crédito, financiamento e investimento",,7,1,4,12,29536,1243,28294
+2020,2º,mais de quatro milhões de clientes,conglomerado, ,santander (conglomerado),41.35,2040,3214,5752,11006,49334145,40754319,24407946
+2020,2º,menos de quatro milhões de clientes,banco/financeira,07747410,"sax s.a. - crédito, financiamento e investimento",,5,4,7,16,809031,0,809031
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,scania (conglomerado),,0,0,1,1,4328,2829,4310
+2020,2º,menos de quatro milhões de clientes,banco/financeira,11970623,"senff s.a. - crédito, financiamento e investimento",,0,2,4,6,84,84,0
+2020,2º,mais de quatro milhões de clientes,conglomerado, ,sicredi (conglomerado),0.0,0,0,2,2,4976262,4954923,159005
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,societe generale (conglomerado),,2,1,1,4,699,564,175
+2020,2º,menos de quatro milhões de clientes,banco/financeira,03881423,"socinal s.a. - crédito, financiamento e investimento",,4,2,6,12,5517,2824,2694
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,socopa (conglomerado),,0,1,1,2,24627,9312,15617
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,sofisa (conglomerado),,7,6,22,35,250294,239070,16276
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,sorocred (conglomerado),,4,12,13,29,492314,1214,491155
+2020,2º,menos de quatro milhões de clientes,banco/financeira,05192316,"via certa financiadora s.a. - crédito, financiamento e investimentos",,4,1,1,6,414053,993,413062
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,volkswagen (conglomerado),168.81,66,23,300,389,390958,1398,389865
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,volvo (conglomerado),,1,0,0,1,81,81,0
+2020,2º,mais de quatro milhões de clientes,conglomerado, ,votorantim (conglomerado),3.47,33,124,404,561,9502980,5877169,4115498
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,vr (conglomerado),,0,0,1,1,69,52,18
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,western union (conglomerado),,7,2,5,14,1,1,0
+2020,2º,menos de quatro milhões de clientes,conglomerado, ,yamaha motor (conglomerado),,5,11,38,54,185004,45,184964
 2021,1º,grupo secundário,conglomerado, ,abc-brasil (conglomerado),,2,3,4,9,26230,24698,3810
 2021,1º,grupo secundário,conglomerado, ,agibank (conglomerado),54.79,58,140,73,271,1058431,790848,693843
 2021,1º,grupo secundário,banco/financeira,36321990,"agoracred s/a sociedade de crédito, financiamento e investimento",,3,3,0,6,420692,129,420563
@@ -420,342 +643,6 @@ ano,trimestre,categoria,tipo,cnpj_if,instituicao_financeira,indice,quantidade_de
 2021,2º,demais bancos e financeiras,banco/financeira,23862762,"will financeira s.a. crédito, financiamento e investimento",26.7,46,9,16,71,1722341,1721730,406890
 2021,2º,demais bancos e financeiras,conglomerado, ,xp (conglomerado),,11,2,8,21,0,0,0
 2021,2º,demais bancos e financeiras,conglomerado, ,yamaha motor (conglomerado),,4,4,7,15,204014,77,203946
-2021,3º,demais bancos e financeiras,conglomerado, ,abc-brasil (conglomerado),,1,2,1,4,29707,28217,4009
-2021,3º,demais bancos e financeiras,conglomerado, ,agibank (conglomerado),82.54,109,296,107,512,1320447,999951,873341
-2021,3º,demais bancos e financeiras,banco/financeira,36321990,"agoracred s/a sociedade de crédito, financiamento e investimento",,3,1,2,6,453405,130,453275
-2021,3º,demais bancos e financeiras,banco/financeira,27214112,"al5 s.a. crédito, financiamento e investimento",,4,0,6,10,18217,9981,11683
-2021,3º,demais bancos e financeiras,conglomerado, ,alfa (conglomerado),,13,61,11,85,420486,268221,153423
-2021,3º,demais bancos e financeiras,conglomerado, ,andbank (conglomerado),,0,3,3,6,4369,4369,48
-2021,3º,demais bancos e financeiras,banco/financeira,03532415,banco abn amro s.a.,,0,0,1,1,41,41,1
-2021,3º,demais bancos e financeiras,banco/financeira,54403563,banco arbi s.a.,,1,9,1,11,28673,20319,8520
-2021,3º,demais bancos e financeiras,banco/financeira,33132044,banco cedula s.a.,,0,1,0,1,18022,2815,15434
-2021,3º,demais bancos e financeiras,banco/financeira,02992446,banco cnh industrial capital s.a.,,0,0,1,1,28309,1234,27347
-2021,3º,demais bancos e financeiras,banco/financeira,08357240,banco csf s.a.,14.94,111,89,59,259,7425297,0,7425297
-2021,3º,demais bancos e financeiras,banco/financeira,04902979,banco da amazonia s.a.,,2,4,8,14,551874,473802,194373
-2021,3º,demais bancos e financeiras,banco/financeira,10690848,banco da china brasil s.a.,,1,0,0,1,481,457,39
-2021,3º,demais bancos e financeiras,banco/financeira,33042151,banco de la nacion argentina,,0,1,0,1,256,244,21
-2021,3º,demais bancos e financeiras,banco/financeira,92874270,banco digimais s.a.,258.94,102,28,34,164,393906,266246,192853
-2021,3º,demais bancos e financeiras,banco/financeira,27098060,banco digio s.a.,31.05,58,108,71,237,1867547,1096662,1553737
-2021,3º,demais bancos e financeiras,banco/financeira,13009717,banco do estado de sergipe s.a.,,10,23,17,50,1082245,831407,621508
-2021,3º,demais bancos e financeiras,banco/financeira,04913711,banco do estado do pará s.a.,42.87,39,23,23,85,909670,786497,405982
-2021,3º,demais bancos e financeiras,banco/financeira,07237373,banco do nordeste do brasil s.a.,,13,23,37,73,8844660,8261233,3268835
-2021,3º,demais bancos e financeiras,banco/financeira,58616418,banco fibra s.a.,,0,0,1,1,163670,4092,160152
-2021,3º,demais bancos e financeiras,banco/financeira,62237425,banco fidis s/a,,0,7,4,11,4661,147,4533
-2021,3º,demais bancos e financeiras,banco/financeira,53518684,banco hsbc s.a.,,0,0,2,2,3087,3074,58
-2021,3º,demais bancos e financeiras,banco/financeira,04866275,banco inbursa s.a.,,5,5,5,15,14726,9,14717
-2021,3º,demais bancos e financeiras,banco/financeira,78632767,banco ourinvest s.a.,,5,2,0,7,50060,47319,2771
-2021,3º,demais bancos e financeiras,banco/financeira,61820817,banco paulista s.a.,,1,0,2,3,28238,7793,20692
-2021,3º,demais bancos e financeiras,banco/financeira,00795423,banco semear s.a.,,2,2,0,4,270979,3638,267795
-2021,3º,demais bancos e financeiras,banco/financeira,11970623,banco senff s.a.,,1,4,1,6,109166,40042,70102
-2021,3º,demais bancos e financeiras,conglomerado, ,banco sicoob (conglomerado),,21,26,6,53,5047970,2390217,3240987
-2021,3º,demais bancos e financeiras,banco/financeira,07679404,banco topázio s.a.,,4,5,2,11,43686,15291,30304
-2021,3º,demais bancos e financeiras,banco/financeira,03215790,banco toyota do brasil s.a.,,1,4,3,8,155981,15264,141643
-2021,3º,demais bancos e financeiras,banco/financeira,17351180,banco triangulo s.a.,,10,15,6,31,2025332,439855,1847196
-2021,3º,demais bancos e financeiras,conglomerado, ,banestes (conglomerado),,17,35,21,73,1345235,1295217,477798
-2021,3º,demais bancos e financeiras,conglomerado, ,banrisul (conglomerado),37.68,190,550,115,855,5041288,3714546,3937433
-2021,3º,demais bancos e financeiras,conglomerado, ,barigui (conglomerado),,19,32,21,72,172348,144592,45355
-2021,3º,top 10 - bancos e financeiras,conglomerado, ,bb (conglomerado),16.79,1180,2361,2288,5829,70259170,65432728,31696455
-2021,3º,demais bancos e financeiras,banco/financeira,45283173,bbva brasil banco de investimento s.a.,,0,0,1,1,0,0,0
-2021,3º,demais bancos e financeiras,banco/financeira,11285104,"biorc financeira - crédito, financiamento e investimento s.a.",,0,0,1,1,18321,251,18070
-2021,3º,demais bancos e financeiras,conglomerado, ,bmg (conglomerado),106.63,868,1268,262,2398,8140173,4751592,5008921
-2021,3º,demais bancos e financeiras,conglomerado, ,bmw (conglomerado),,0,0,1,1,28019,25950,21412
-2021,3º,demais bancos e financeiras,conglomerado, ,bnp paribas (conglomerado),125.22,286,493,117,896,2283925,11993,2272412
-2021,3º,demais bancos e financeiras,conglomerado, ,bofa merrill lynch (conglomerado),,0,1,1,2,4782,4777,107
-2021,3º,top 10 - bancos e financeiras,conglomerado, ,bradesco (conglomerado),36.03,3613,4188,2892,10693,100264792,91440415,43363537
-2021,3º,demais bancos e financeiras,conglomerado, ,brb (conglomerado),50.95,148,197,351,696,2904792,2790333,1380307
-2021,3º,demais bancos e financeiras,banco/financeira,12865507,"brk s.a. crédito, financiamento e investimento",,0,0,1,1,6482,715,5970
-2021,3º,top 10 - bancos e financeiras,conglomerado, ,btg pactual/banco pan (conglomerado),65.83,1004,1372,685,3061,15250442,9574292,7935699
-2021,3º,top 10 - bancos e financeiras,conglomerado, ,c6 bank (conglomerado),149.45,1651,1425,749,3825,11046743,9885015,3341379
-2021,3º,top 10 - bancos e financeiras,conglomerado, ,caixa econômica federal (conglomerado),22.36,3264,4303,4305,11872,145914729,144407266,23490184
-2021,3º,demais bancos e financeiras,banco/financeira,09313766,"caruana s.a. - sociedade de crédito, financiamento e investimento",,2,2,3,7,76719,70930,16272
-2021,3º,demais bancos e financeiras,conglomerado, ,ccb (conglomerado),,24,122,14,160,205490,3702,202355
-2021,3º,demais bancos e financeiras,conglomerado, ,citibank (conglomerado),,1,5,6,12,18294,17394,1809
-2021,3º,demais bancos e financeiras,conglomerado, ,colombo (conglomerado),,2,4,0,6,345089,30,345072
-2021,3º,demais bancos e financeiras,conglomerado, ,crefisa (conglomerado),24.02,64,133,57,254,2663580,1577219,1594966
-2021,3º,demais bancos e financeiras,conglomerado, ,daycoval (conglomerado),255.32,332,552,63,947,1300297,160302,1173219
-2021,3º,demais bancos e financeiras,banco/financeira,15581638,facta financeira s.a. - crédito financiamento e investimento,458.43,131,272,25,428,285752,681,285077
-2021,3º,demais bancos e financeiras,conglomerado, ,fator (conglomerado),,0,0,1,1,13744,13740,19
-2021,3º,demais bancos e financeiras,banco/financeira,36583700,"fc financeira s.a. - crédito, financiamento e investimento",,1,1,0,2,11153,0,11153
-2021,3º,demais bancos e financeiras,banco/financeira,00411939,"finamax s.a. - credito, financiamento e investimento",,0,1,4,5,85526,1653,83930
-2021,3º,demais bancos e financeiras,conglomerado, ,genial (conglomerado),,10,3,1,14,208540,208535,44
-2021,3º,demais bancos e financeiras,conglomerado, ,gm (conglomerado),,1,10,9,20,274480,483,274083
-2021,3º,demais bancos e financeiras,conglomerado, ,grupo bonsucesso - bs2 (conglomerado),95.86,86,136,55,277,897134,892175,16308
-2021,3º,demais bancos e financeiras,conglomerado, ,grupo zema (conglomerado),,1,4,4,9,461496,577,460937
-2021,3º,demais bancos e financeiras,conglomerado, ,herval - hs (conglomerado),,10,1,3,14,219957,22813,202041
-2021,3º,demais bancos e financeiras,conglomerado, ,honda (conglomerado),,5,7,7,19,428225,106,428199
-2021,3º,demais bancos e financeiras,banco/financeira,17453575,icbc do brasil banco múltiplo s.a.,,0,1,0,1,187,175,24
-2021,3º,demais bancos e financeiras,conglomerado, ,industrial do brasil (conglomerado),,10,18,4,32,63911,4519,60187
-2021,3º,top 10 - bancos e financeiras,conglomerado, ,inter (conglomerado),55.99,746,732,298,1776,13323223,13217210,1954815
-2021,3º,top 10 - bancos e financeiras,conglomerado, ,itau (conglomerado),15.05,1318,3194,2338,6850,87568455,68959837,50906457
-2021,3º,demais bancos e financeiras,banco/financeira,04230630,"jbcred s.a. sociedade de credito, financiamento e investimento",,0,6,1,7,52001,0,52001
-2021,3º,demais bancos e financeiras,banco/financeira,11271860,"lebes financeira s.a. - crédito, financiamento e investimento",,1,2,0,3,249991,4,249987
-2021,3º,demais bancos e financeiras,conglomerado, ,lecca (conglomerado),,3,4,2,9,27668,330,27340
-2021,3º,demais bancos e financeiras,banco/financeira,07747410,m pagamentos s.a. - crédito financiamento e investimento,,3,6,5,14,626141,0,626141
-2021,3º,demais bancos e financeiras,conglomerado, ,master (conglomerado),2055.01,223,77,17,317,108515,5657,103039
-2021,3º,demais bancos e financeiras,conglomerado, ,mercado crédito (conglomerado),,0,0,1,1,47984,0,47984
-2021,3º,demais bancos e financeiras,conglomerado, ,mercantil do brasil (conglomerado),122.14,467,228,106,801,3823232,3235072,1856560
-2021,3º,demais bancos e financeiras,conglomerado, ,mercedes-benz (conglomerado),,0,1,1,2,20203,341,19944
-2021,3º,demais bancos e financeiras,banco/financeira,09464032,"midway s.a. - crédito, financiamento e investimento",,22,102,52,176,10572319,286354,10523154
-2021,3º,demais bancos e financeiras,conglomerado, ,modal (conglomerado),,21,31,8,60,1304283,1304119,33167
-2021,3º,demais bancos e financeiras,banco/financeira,04379829,"negresco s.a. - credito, financiamento e investimentos",,0,1,0,1,434448,677,433771
-2021,3º,demais bancos e financeiras,banco/financeira,74828799,novo banco continental s.a. - banco múltiplo,,5,29,0,34,99651,3135,96953
-2021,3º,top 10 - bancos e financeiras,conglomerado, ,nubank (conglomerado),0.13,3,18,17,38,22267718,20581767,3601628
-2021,3º,demais bancos e financeiras,conglomerado, ,omni (conglomerado),,17,60,67,144,5281196,165744,5129818
-2021,3º,demais bancos e financeiras,conglomerado, ,original (conglomerado),47.03,265,369,212,846,5634279,4365122,2051035
-2021,3º,demais bancos e financeiras,conglomerado, ,pagbank-pagseguro (conglomerado),,5,4,2,11,3342281,3335727,7063
-2021,3º,demais bancos e financeiras,conglomerado, ,paraná banco (conglomerado),193.45,94,412,20,526,485895,10034,476123
-2021,3º,demais bancos e financeiras,banco/financeira,03311443,"parati - credito, financiamento e investimento s.a.",14015.05,54,21,1,76,3853,0,3853
-2021,3º,demais bancos e financeiras,banco/financeira,43180355,"pefisa s.a. - crédito, financiamento e investimento",12.79,87,59,22,168,6798337,6588214,2507474
-2021,3º,demais bancos e financeiras,conglomerado, ,pine (conglomerado),,3,3,0,6,12869,10925,2618
-2021,3º,demais bancos e financeiras,conglomerado, ,porto seguro (conglomerado),18.21,55,69,62,186,3019992,0,3019992
-2021,3º,demais bancos e financeiras,banco/financeira,01800019,"portocred s.a. - credito, financiamento e investimento",,19,32,17,68,225158,1,225157
-2021,3º,demais bancos e financeiras,banco/financeira,27351731,"realize crédito, financiamento e investimento s.a.",,10,39,21,70,4873514,51,4873489
-2021,3º,demais bancos e financeiras,conglomerado, ,rendimento (conglomerado),,1,10,1,12,26068,22168,6473
-2021,3º,demais bancos e financeiras,conglomerado, ,rodobens (conglomerado),,1,1,1,3,14845,1609,13625
-2021,3º,demais bancos e financeiras,conglomerado, ,safra (conglomerado),103.36,442,932,408,1782,4276210,1938760,2638051
-2021,3º,demais bancos e financeiras,banco/financeira,05503849,"santana s.a. - crédito, financiamento e investimento",,0,1,0,1,29858,1259,28602
-2021,3º,top 10 - bancos e financeiras,conglomerado, ,santander (conglomerado),29.19,1558,3646,2031,7235,53358153,45593473,25859687
-2021,3º,demais bancos e financeiras,banco/financeira,00122327,"santinvest s.a. - credito, financiamento e investimentos",,1,4,0,5,14007,592,13415
-2021,3º,demais bancos e financeiras,conglomerado, ,sicredi (conglomerado),,0,0,2,2,6101332,6080485,187051
-2021,3º,demais bancos e financeiras,conglomerado, ,simpala (conglomerado),,1,0,1,2,2883,25,2858
-2021,3º,demais bancos e financeiras,conglomerado, ,societe generale (conglomerado),,0,1,0,1,534,418,159
-2021,3º,demais bancos e financeiras,banco/financeira,03881423,"socinal s.a. - crédito, financiamento e investimento",,1,3,7,11,2088,460,1628
-2021,3º,demais bancos e financeiras,conglomerado, ,sofisa (conglomerado),90.68,37,21,19,77,407986,398001,17484
-2021,3º,demais bancos e financeiras,conglomerado, ,sorocred (conglomerado),,14,28,10,52,248801,1076,247735
-2021,3º,demais bancos e financeiras,banco/financeira,41498340,"tentos s.a. crédito, financiamento e investimento",,1,0,0,1,129,0,129
-2021,3º,demais bancos e financeiras,banco/financeira,09473806,"todescredi s/a - crédito, financiamento e investimento",,0,0,1,1,37627,11,37616
-2021,3º,demais bancos e financeiras,banco/financeira,05192316,"via certa financiadora s.a. - crédito, financiamento e investimentos",,2,3,1,6,405846,1385,404867
-2021,3º,demais bancos e financeiras,conglomerado, ,voiter (conglomerado),,1,2,2,5,5059,4490,841
-2021,3º,demais bancos e financeiras,conglomerado, ,volkswagen (conglomerado),,21,29,44,94,358084,945,357307
-2021,3º,demais bancos e financeiras,conglomerado, ,volvo (conglomerado),,0,1,0,1,7212,49,7204
-2021,3º,top 10 - bancos e financeiras,conglomerado, ,votorantim (conglomerado),13.9,256,193,225,674,18414652,15132752,5084002
-2021,3º,demais bancos e financeiras,conglomerado, ,western union (conglomerado),,2,2,0,4,1,1,0
-2021,3º,demais bancos e financeiras,banco/financeira,23862762,"will financeira s.a. crédito, financiamento e investimento",18.99,35,43,33,111,1842985,1842425,391779
-2021,3º,demais bancos e financeiras,conglomerado, ,xp (conglomerado),138.8,42,6,10,58,302591,302459,231155
-2021,3º,demais bancos e financeiras,conglomerado, ,yamaha motor (conglomerado),,2,2,11,15,210964,88,210884
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,abc-brasil (conglomerado),,1,0,1,2,21754,20276,3184
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,agibank (conglomerado),61.19,67,237,87,391,1094818,655307,836854
-2020,2º,menos de quatro milhões de clientes,banco/financeira,36321990,"agoracred s/a sociedade de crédito, financiamento e investimento",,0,3,0,3,373794,134,373661
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,alfa (conglomerado),,12,35,35,82,412199,268126,145228
-2020,2º,menos de quatro milhões de clientes,banco/financeira,27214112,"amaggi s.a. - crédito, financiamento e investimento",,1,1,3,5,8250,29,8231
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,andbank (conglomerado),,0,1,2,3,3991,3991,0
-2020,2º,menos de quatro milhões de clientes,banco/financeira,23862762,"avista s.a. crédito, financiamento e investimento",,11,3,11,25,1221120,1221120,0
-2020,2º,menos de quatro milhões de clientes,banco/financeira,54403563,banco arbi s.a.,,1,1,0,2,12624,3496,9192
-2020,2º,menos de quatro milhões de clientes,banco/financeira,02992446,banco cnh industrial capital s.a.,,1,0,5,6,26121,1239,25195
-2020,2º,mais de quatro milhões de clientes,banco/financeira,08357240,banco csf s.a.,16.59,122,143,122,387,7350474,0,7350474
-2020,2º,menos de quatro milhões de clientes,banco/financeira,04902979,banco da amazonia s.a.,,2,5,12,19,508852,448971,152171
-2020,2º,menos de quatro milhões de clientes,banco/financeira,33042151,banco de la nacion argentina,,1,0,0,1,226,212,25
-2020,2º,menos de quatro milhões de clientes,banco/financeira,05040481,banco de lage landen brasil s.a.,,0,0,2,2,35889,2,35887
-2020,2º,menos de quatro milhões de clientes,banco/financeira,92874270,banco digimais s.a.,340.24,83,17,54,154,243941,123760,157649
-2020,2º,menos de quatro milhões de clientes,banco/financeira,27098060,banco digio s.a.,19.03,26,66,59,151,1366248,166570,1357998
-2020,2º,menos de quatro milhões de clientes,banco/financeira,13009717,banco do estado de sergipe s.a.,,7,14,43,64,879777,879777,0
-2020,2º,menos de quatro milhões de clientes,banco/financeira,04913711,banco do estado do pará s.a.,19.41,15,19,25,59,772617,719581,309266
-2020,2º,mais de quatro milhões de clientes,banco/financeira,07237373,banco do nordeste do brasil s.a.,0.86,7,23,44,74,8061030,7476513,2934554
-2020,2º,menos de quatro milhões de clientes,banco/financeira,58616418,banco fibra s.a.,,0,1,1,2,163909,4067,160338
-2020,2º,menos de quatro milhões de clientes,banco/financeira,61348538,banco ficsa s.a.,,4,0,0,4,38706,611,38097
-2020,2º,menos de quatro milhões de clientes,banco/financeira,90731688,banco ford s.a.,,1,1,2,4,402,186,229
-2020,2º,menos de quatro milhões de clientes,banco/financeira,04866275,banco inbursa s.a.,,1,0,2,3,11904,7,11897
-2020,2º,menos de quatro milhões de clientes,banco/financeira,91884981,banco john deere s.a.,,0,1,0,1,14489,254,14302
-2020,2º,menos de quatro milhões de clientes,banco/financeira,59118133,banco luso brasileiro s.a.,,0,0,1,1,10297,4757,5916
-2020,2º,menos de quatro milhões de clientes,banco/financeira,07441209,banco moneo s.a.,,1,0,0,1,1234,4,1232
-2020,2º,menos de quatro milhões de clientes,banco/financeira,78632767,banco ourinvest s.a.,,0,0,1,1,38281,35380,2929
-2020,2º,menos de quatro milhões de clientes,banco/financeira,00517645,banco ribeirao preto s.a.,,1,0,1,2,4865,4592,2892
-2020,2º,menos de quatro milhões de clientes,banco/financeira,00795423,banco semear s.a.,,0,3,4,7,255199,2832,252479
-2020,2º,menos de quatro milhões de clientes,banco/financeira,07679404,banco topázio s.a.,,0,0,2,2,21801,16650,8096
-2020,2º,menos de quatro milhões de clientes,banco/financeira,03215790,banco toyota do brasil s.a.,,8,5,43,56,175692,15287,161520
-2020,2º,menos de quatro milhões de clientes,banco/financeira,17351180,banco triangulo s.a.,,7,15,10,32,1968256,219922,1784889
-2020,2º,menos de quatro milhões de clientes,banco/financeira,57839805,banco tricury s.a.,,0,1,0,1,676,658,155
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,bancoob (conglomerado),,8,18,14,40,3886472,1940646,2356172
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,banestes (conglomerado),,10,8,20,38,1303144,1257492,467135
-2020,2º,mais de quatro milhões de clientes,conglomerado, ,banrisul (conglomerado),19.83,100,360,185,645,5042321,3762175,3969611
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,barigui (conglomerado),,7,6,6,19,27474,1034,26501
-2020,2º,mais de quatro milhões de clientes,conglomerado, ,bb (conglomerado),22.76,1527,2628,4367,8522,67076893,63425558,29313144
-2020,2º,menos de quatro milhões de clientes,banco/financeira,45283173,bbva brasil banco de investimento s.a.,,0,0,2,2,0,0,0
-2020,2º,menos de quatro milhões de clientes,banco/financeira,20443996,"becker financeira s.a. - crédito, financiamento e investimento",,0,1,0,1,44089,6,44083
-2020,2º,menos de quatro milhões de clientes,banco/financeira,11285104,"biorc financeira - crédito, financiamento e investimento s.a.",,0,0,3,3,10899,10,10889
-2020,2º,mais de quatro milhões de clientes,conglomerado, ,bmg (conglomerado),99.8,520,518,505,1543,5210230,1120487,4874418
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,bmw (conglomerado),,1,0,5,6,24426,23847,20243
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,bnp paribas (conglomerado),268.59,719,326,222,1267,2676922,12879,2664575
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,bofa merrill lynch (conglomerado),,1,0,0,1,1604,1598,97
-2020,2º,mais de quatro milhões de clientes,conglomerado, ,bradesco (conglomerado),24.35,2408,4154,4888,11450,98855959,88952453,44997989
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,brb (conglomerado),69.12,64,130,199,393,925870,814338,426317
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,btg pactual (conglomerado),,8,9,9,26,424827,318699,107760
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,c6 bank (conglomerado),64.37,118,144,85,347,1833081,1819900,202030
-2020,2º,mais de quatro milhões de clientes,conglomerado, ,caixa econômica federal (conglomerado),26.45,3053,8334,12223,23610,115407209,112696979,21658027
-2020,2º,menos de quatro milhões de clientes,banco/financeira,09313766,"caruana s.a. - sociedade de crédito, financiamento e investimento",,2,3,2,7,63739,56525,12876
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,ccb (conglomerado),,6,77,47,130,253956,3597,250978
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,citibank (conglomerado),,0,2,3,5,19435,19370,70
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,crefisa (conglomerado),17.3,31,148,69,248,1791322,682223,1603727
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,daycoval (conglomerado),41.06,50,308,296,654,1217663,104416,1127189
-2020,2º,menos de quatro milhões de clientes,banco/financeira,15581638,facta financeira s.a. - crédito financiamento e investimento,559.96,54,238,10,302,96434,623,95815
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,fator (conglomerado),,0,1,0,1,16675,16672,19
-2020,2º,menos de quatro milhões de clientes,banco/financeira,00411939,"finamax s.a. - credito, financiamento e investimento",,0,0,6,6,97339,1771,95637
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,gm (conglomerado),72.55,24,10,176,210,330771,462,330392
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,grupo bonsucesso - bs2 (conglomerado),44.63,20,34,21,75,448029,441333,8183
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,grupo zema (conglomerado),,0,1,1,2,410773,562,410214
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,herval - hs (conglomerado),,6,1,3,10,197488,568,196974
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,honda (conglomerado),,7,6,45,58,478950,70,478917
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,industrial do brasil (conglomerado),235.01,15,28,4,47,63827,3946,60430
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,indusval (conglomerado),,6,0,1,7,5169,4334,1160
-2020,2º,mais de quatro milhões de clientes,conglomerado, ,inter (conglomerado),97.92,557,402,442,1401,5688290,5531460,914226
-2020,2º,mais de quatro milhões de clientes,conglomerado, ,itau (conglomerado),21.09,1750,4649,3435,9834,82959663,63654317,50400471
-2020,2º,menos de quatro milhões de clientes,banco/financeira,04230630,"jbcred s.a. sociedade de credito, financiamento e investimento",,0,3,5,8,125684,0,125684
-2020,2º,menos de quatro milhões de clientes,banco/financeira,06040559,"kredilig s.a. - crédito, financiamento e investimento",,0,1,0,1,265138,4,265135
-2020,2º,menos de quatro milhões de clientes,banco/financeira,11271860,"lebes financeira s.a. - crédito, financiamento e investimento",,0,1,0,1,205116,4,205112
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,lecca (conglomerado),,9,0,10,19,25656,1112,24545
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,máxima (conglomerado),,9,11,5,25,83947,10717,73378
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,mercantil do brasil (conglomerado),30.73,99,88,69,256,3221087,2713917,1567402
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,mercedes-benz (conglomerado),,5,1,9,15,20615,171,20526
-2020,2º,mais de quatro milhões de clientes,banco/financeira,09464032,"midway s.a. - crédito, financiamento e investimento",3.13,35,135,107,277,11177083,77,11177064
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,modal (conglomerado),35.7,26,42,52,120,728248,728201,9528
-2020,2º,menos de quatro milhões de clientes,banco/financeira,04379829,"negresco s.a. - credito, financiamento e investimentos",,1,1,0,2,580365,670,579695
-2020,2º,menos de quatro milhões de clientes,banco/financeira,74828799,novo banco continental s.a. - banco múltiplo,225.43,18,59,5,82,79846,3103,77170
-2020,2º,mais de quatro milhões de clientes,conglomerado, ,nubank (conglomerado),0.18,1,5,5,11,5367754,5353986,73153
-2020,2º,mais de quatro milhões de clientes,conglomerado, ,omni (conglomerado),12.07,55,61,100,216,4553588,3408,4550817
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,original (conglomerado),30.97,97,226,224,547,3131942,3016464,461678
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,pagbank-pagseguro (conglomerado),,0,3,0,3,935179,932502,2704
-2020,2º,mais de quatro milhões de clientes,conglomerado, ,pan (conglomerado),158.89,794,1072,2941,4807,4996952,467854,4701347
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,paraná banco (conglomerado),122.22,53,199,88,340,433617,9072,424826
-2020,2º,menos de quatro milhões de clientes,banco/financeira,03311443,"parati - credito, financiamento e investimento s.a.",,0,1,0,1,1009,0,1009
-2020,2º,menos de quatro milhões de clientes,banco/financeira,43180355,"pernambucanas financiadora s.a. - crédito, financiamento e investimento",19.25,64,64,40,168,3322987,1441913,2556685
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,pine (conglomerado),,1,1,0,2,11077,10051,1618
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,plural (conglomerado),,0,2,0,2,5003,5003,36
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,porto seguro (conglomerado),20.78,50,67,83,200,2405064,0,2405064
-2020,2º,menos de quatro milhões de clientes,banco/financeira,01800019,"portocred s.a. - credito, financiamento e investimento",,14,17,30,61,251875,3783,248096
-2020,2º,mais de quatro milhões de clientes,banco/financeira,27351731,"realize crédito, financiamento e investimento s.a.",3.55,17,39,34,90,4784859,17,4784844
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,rendimento (conglomerado),,1,2,2,5,22654,18171,7223
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,rodobens (conglomerado),,1,2,3,6,12852,1688,11612
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,safra (conglomerado),281.78,771,934,1221,2926,2736115,1141492,1742824
-2020,2º,menos de quatro milhões de clientes,banco/financeira,05503849,"santana s.a. - crédito, financiamento e investimento",,7,1,4,12,29536,1243,28294
-2020,2º,mais de quatro milhões de clientes,conglomerado, ,santander (conglomerado),41.35,2040,3214,5752,11006,49334145,40754319,24407946
-2020,2º,menos de quatro milhões de clientes,banco/financeira,07747410,"sax s.a. - crédito, financiamento e investimento",,5,4,7,16,809031,0,809031
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,scania (conglomerado),,0,0,1,1,4328,2829,4310
-2020,2º,menos de quatro milhões de clientes,banco/financeira,11970623,"senff s.a. - crédito, financiamento e investimento",,0,2,4,6,84,84,0
-2020,2º,mais de quatro milhões de clientes,conglomerado, ,sicredi (conglomerado),0.0,0,0,2,2,4976262,4954923,159005
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,societe generale (conglomerado),,2,1,1,4,699,564,175
-2020,2º,menos de quatro milhões de clientes,banco/financeira,03881423,"socinal s.a. - crédito, financiamento e investimento",,4,2,6,12,5517,2824,2694
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,socopa (conglomerado),,0,1,1,2,24627,9312,15617
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,sofisa (conglomerado),,7,6,22,35,250294,239070,16276
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,sorocred (conglomerado),,4,12,13,29,492314,1214,491155
-2020,2º,menos de quatro milhões de clientes,banco/financeira,05192316,"via certa financiadora s.a. - crédito, financiamento e investimentos",,4,1,1,6,414053,993,413062
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,volkswagen (conglomerado),168.81,66,23,300,389,390958,1398,389865
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,volvo (conglomerado),,1,0,0,1,81,81,0
-2020,2º,mais de quatro milhões de clientes,conglomerado, ,votorantim (conglomerado),3.47,33,124,404,561,9502980,5877169,4115498
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,vr (conglomerado),,0,0,1,1,69,52,18
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,western union (conglomerado),,7,2,5,14,1,1,0
-2020,2º,menos de quatro milhões de clientes,conglomerado, ,yamaha motor (conglomerado),,5,11,38,54,185004,45,184964
-2020,3º,menos de quatro milhões de clientes,conglomerado, ,abc-brasil (conglomerado),,1,3,0,4,24119,22587,3303
-2020,3º,menos de quatro milhões de clientes,conglomerado, ,agibank (conglomerado),62.34,63,199,85,347,1010427,707977,645730
-2020,3º,menos de quatro milhões de clientes,banco/financeira,36321990,"agoracred s/a sociedade de crédito, financiamento e investimento",,4,1,0,5,382287,132,382156
-2020,3º,menos de quatro milhões de clientes,banco/financeira,27214112,"al5 s.a. crédito, financiamento e investimento",,1,0,2,3,10041,3099,8686
-2020,3º,menos de quatro milhões de clientes,conglomerado, ,alfa (conglomerado),87.5,36,72,26,134,411418,268139,144423
-2020,3º,menos de quatro milhões de clientes,conglomerado, ,andbank (conglomerado),,0,8,8,16,4305,4304,51
-2020,3º,menos de quatro milhões de clientes,banco/financeira,23862762,"avista s.a. crédito, financiamento e investimento",,27,6,8,41,1272781,1271301,260038
-2020,3º,menos de quatro milhões de clientes,banco/financeira,03532415,banco abn amro s.a.,,0,0,1,1,140,104,43
-2020,3º,menos de quatro milhões de clientes,banco/financeira,54403563,banco arbi s.a.,,2,0,0,2,13286,4188,9168
-2020,3º,menos de quatro milhões de clientes,banco/financeira,02992446,banco cnh industrial capital s.a.,,1,0,1,2,26883,1240,25942
-2020,3º,mais de quatro milhões de clientes,banco/financeira,08357240,banco csf s.a.,17.06,130,104,90,324,7618737,0,7618737
-2020,3º,menos de quatro milhões de clientes,banco/financeira,04902979,banco da amazonia s.a.,,6,4,8,18,536163,449958,196881
-2020,3º,menos de quatro milhões de clientes,banco/financeira,33042151,banco de la nacion argentina,,0,0,1,1,224,210,25
-2020,3º,menos de quatro milhões de clientes,banco/financeira,05040481,banco de lage landen brasil s.a.,,2,0,0,2,35565,2,35563
-2020,3º,menos de quatro milhões de clientes,banco/financeira,92874270,banco digimais s.a.,269.02,67,20,32,119,249049,129092,158567
-2020,3º,menos de quatro milhões de clientes,banco/financeira,27098060,banco digio s.a.,62.83,85,124,95,304,1352697,263791,1338101
-2020,3º,menos de quatro milhões de clientes,banco/financeira,13009717,banco do estado de sergipe s.a.,,19,21,23,63,1093478,878043,593504
-2020,3º,menos de quatro milhões de clientes,banco/financeira,04913711,banco do estado do pará s.a.,,11,17,27,55,820900,734365,347559
-2020,3º,mais de quatro milhões de clientes,banco/financeira,07237373,banco do nordeste do brasil s.a.,1.58,13,16,45,74,8195746,7615138,2967535
-2020,3º,menos de quatro milhões de clientes,banco/financeira,58616418,banco fibra s.a.,,0,1,4,5,163904,4150,160288
-2020,3º,menos de quatro milhões de clientes,banco/financeira,90731688,banco ford s.a.,,0,0,2,2,408,194,226
-2020,3º,menos de quatro milhões de clientes,banco/financeira,04866275,banco inbursa s.a.,,0,2,6,8,11855,10,11846
-2020,3º,menos de quatro milhões de clientes,banco/financeira,59118133,banco luso brasileiro s.a.,,0,0,1,1,10245,4703,5903
-2020,3º,menos de quatro milhões de clientes,banco/financeira,07441209,banco moneo s.a.,,0,1,0,1,1258,4,1256
-2020,3º,menos de quatro milhões de clientes,banco/financeira,78632767,banco ourinvest s.a.,,0,0,2,2,39217,36646,2591
-2020,3º,menos de quatro milhões de clientes,banco/financeira,61820817,banco paulista s.a.,,0,1,0,1,24424,9146,15539
-2020,3º,menos de quatro milhões de clientes,banco/financeira,00517645,banco ribeirao preto s.a.,,1,0,0,1,4711,4463,2691
-2020,3º,menos de quatro milhões de clientes,banco/financeira,00795423,banco semear s.a.,,0,3,3,6,274701,2843,271968
-2020,3º,menos de quatro milhões de clientes,banco/financeira,07679404,banco topázio s.a.,,0,3,3,6,29098,17079,14612
-2020,3º,menos de quatro milhões de clientes,banco/financeira,03215790,banco toyota do brasil s.a.,,2,5,5,12,170340,15291,156109
-2020,3º,menos de quatro milhões de clientes,banco/financeira,17351180,banco triangulo s.a.,,9,20,20,49,1986156,230353,1800317
-2020,3º,mais de quatro milhões de clientes,conglomerado, ,bancoob (conglomerado),2.89,12,36,15,63,4139244,2079099,2536358
-2020,3º,menos de quatro milhões de clientes,conglomerado, ,banestes (conglomerado),,22,31,31,84,1312082,1266234,470608
-2020,3º,mais de quatro milhões de clientes,conglomerado, ,banrisul (conglomerado),27.15,138,599,129,866,5081434,3779138,3988413
-2020,3º,menos de quatro milhões de clientes,conglomerado, ,barigui (conglomerado),,24,16,5,45,27533,1234,26565
-2020,3º,mais de quatro milhões de clientes,conglomerado, ,bb (conglomerado),27.66,1878,3104,3629,8611,67894151,64226383,29491465
-2020,3º,menos de quatro milhões de clientes,banco/financeira,45283173,bbva brasil banco de investimento s.a.,,0,0,1,1,0,0,0
-2020,3º,mais de quatro milhões de clientes,conglomerado, ,bmg (conglomerado),236.73,1325,636,415,2376,5597083,1605247,4987983
-2020,3º,menos de quatro milhões de clientes,conglomerado, ,bmw (conglomerado),,1,1,2,4,26598,24447,21162
-2020,3º,menos de quatro milhões de clientes,conglomerado, ,bnp paribas (conglomerado),332.0,864,367,161,1392,2602372,12940,2589941
-2020,3º,menos de quatro milhões de clientes,conglomerado, ,bocom (conglomerado),,1,0,0,1,7711,6155,1836
-2020,3º,menos de quatro milhões de clientes,conglomerado, ,bofa merrill lynch (conglomerado),,0,2,0,2,1663,1657,96
-2020,3º,mais de quatro milhões de clientes,conglomerado, ,bradesco (conglomerado),25.76,2551,5042,4027,11620,99010417,89748256,43914201
-2020,3º,menos de quatro milhões de clientes,conglomerado, ,brb (conglomerado),80.11,78,181,119,378,973656,860664,441428
-2020,3º,menos de quatro milhões de clientes,conglomerado, ,btg pactual (conglomerado),,5,8,12,25,499329,401895,101634
-2020,3º,menos de quatro milhões de clientes,conglomerado, ,c6 bank (conglomerado),220.48,599,455,174,1228,2716769,2571688,409398
-2020,3º,mais de quatro milhões de clientes,conglomerado, ,caixa econômica federal (conglomerado),49.1,6684,8562,14828,30074,136115003,134384189,21677728
-2020,3º,menos de quatro milhões de clientes,banco/financeira,09313766,"caruana s.a. - sociedade de crédito, financiamento e investimento",,1,5,2,8,64804,57693,12637
-2020,3º,menos de quatro milhões de clientes,conglomerado, ,ccb (conglomerado),,15,207,14,236,243070,3819,239864
-2020,3º,menos de quatro milhões de clientes,conglomerado, ,citibank (conglomerado),,1,1,6,8,23698,19411,5175
-2020,3º,menos de quatro milhões de clientes,banco/financeira,05676026,"crediare s.a. - crédito, financiamento e investimento",,0,1,0,1,277460,0,277460
-2020,3º,menos de quatro milhões de clientes,conglomerado, ,credit suisse (conglomerado),,0,0,2,2,5105,5102,407
-2020,3º,menos de quatro milhões de clientes,conglomerado, ,crefisa (conglomerado),38.24,74,223,84,381,1934829,848402,1570617
-2020,3º,menos de quatro milhões de clientes,conglomerado, ,daycoval (conglomerado),115.83,137,530,146,813,1182676,96333,1101394
-2020,3º,menos de quatro milhões de clientes,banco/financeira,62331228,deutsche bank s.a. - banco alemao,,0,0,1,1,2429,2410,170
-2020,3º,menos de quatro milhões de clientes,banco/financeira,15581638,facta financeira s.a. - crédito financiamento e investimento,893.56,91,275,6,372,101839,646,101197
-2020,3º,menos de quatro milhões de clientes,banco/financeira,00411939,"finamax s.a. - credito, financiamento e investimento",,0,1,5,6,92257,1739,90584
-2020,3º,menos de quatro milhões de clientes,conglomerado, ,gazin (conglomerado),,2,0,0,2,34889,284,34628
-2020,3º,menos de quatro milhões de clientes,conglomerado, ,gm (conglomerado),,15,16,37,68,320712,469,320325
-2020,3º,menos de quatro milhões de clientes,banco/financeira,06339468,"grazziotin financiadora s/a - crédito, financiamento e investimentos",,0,0,1,1,110696,1,110695
-2020,3º,menos de quatro milhões de clientes,conglomerado, ,grupo bonsucesso - bs2 (conglomerado),74.51,43,128,52,223,577035,570591,8183
-2020,3º,menos de quatro milhões de clientes,conglomerado, ,grupo zema (conglomerado),,2,3,1,6,421393,567,420829
-2020,3º,menos de quatro milhões de clientes,conglomerado, ,herval - hs (conglomerado),,8,0,2,10,197002,570,196490
-2020,3º,menos de quatro milhões de clientes,conglomerado, ,honda (conglomerado),,25,5,23,53,466565,77,466532
-2020,3º,menos de quatro milhões de clientes,conglomerado, ,industrial do brasil (conglomerado),,17,31,7,55,62754,4176,59249
-2020,3º,mais de quatro milhões de clientes,conglomerado, ,inter (conglomerado),126.38,869,397,433,1699,6875798,6724730,1063054
-2020,3º,mais de quatro milhões de clientes,conglomerado, ,itau (conglomerado),32.3,2687,5290,2680,10657,83164395,64446126,49483598
-2020,3º,menos de quatro milhões de clientes,banco/financeira,04230630,"jbcred s.a. sociedade de credito, financiamento e investimento",,3,2,4,9,124278,0,124278
-2020,3º,menos de quatro milhões de clientes,banco/financeira,06040559,"kredilig s.a. - crédito, financiamento e investimento",,0,0,1,1,280481,4,280479
-2020,3º,menos de quatro milhões de clientes,banco/financeira,11271860,"lebes financeira s.a. - crédito, financiamento e investimento",,0,3,1,4,192212,4,192208
-2020,3º,menos de quatro milhões de clientes,conglomerado, ,lecca (conglomerado),,6,0,6,12,25470,1112,24361
-2020,3º,menos de quatro milhões de clientes,conglomerado, ,máxima (conglomerado),313.36,38,35,12,85,121263,33895,88681
-2020,3º,menos de quatro milhões de clientes,conglomerado, ,mercantil do brasil (conglomerado),48.75,160,87,82,329,3281816,2794454,1589128
-2020,3º,menos de quatro milhões de clientes,conglomerado, ,mercedes-benz (conglomerado),,2,3,2,7,20996,236,20839
-2020,3º,mais de quatro milhões de clientes,banco/financeira,09464032,"midway s.a. - crédito, financiamento e investimento",2.02,22,154,101,277,10873867,110,10873832
-2020,3º,menos de quatro milhões de clientes,conglomerado, ,modal (conglomerado),119.26,108,86,95,289,905571,905520,12934
-2020,3º,menos de quatro milhões de clientes,banco/financeira,04379829,"negresco s.a. - credito, financiamento e investimentos",,0,1,1,2,585497,672,584826
-2020,3º,menos de quatro milhões de clientes,banco/financeira,74828799,novo banco continental s.a. - banco múltiplo,,19,59,1,79,82824,3135,80112
-2020,3º,mais de quatro milhões de clientes,conglomerado, ,nubank (conglomerado),0.25,2,5,10,17,7935364,7903697,111965
-2020,3º,mais de quatro milhões de clientes,conglomerado, ,omni (conglomerado),6.12,28,66,72,166,4569483,3673,4566599
-2020,3º,menos de quatro milhões de clientes,conglomerado, ,original (conglomerado),72.11,243,317,341,901,3369592,3207959,536414
-2020,3º,menos de quatro milhões de clientes,conglomerado, ,pagbank-pagseguro (conglomerado),,3,0,0,3,1388670,1385285,3488
-2020,3º,mais de quatro milhões de clientes,conglomerado, ,pan (conglomerado),255.33,1464,2049,1582,5095,5733561,1015888,5014811
-2020,3º,menos de quatro milhões de clientes,conglomerado, ,paraná banco (conglomerado),176.42,82,389,59,530,464786,9343,455724
-2020,3º,menos de quatro milhões de clientes,banco/financeira,03311443,"parati - credito, financiamento e investimento s.a.",,2,3,1,6,1030,0,1030
-2020,3º,mais de quatro milhões de clientes,banco/financeira,43180355,"pefisa s.a. - crédito, financiamento e investimento",15.13,82,60,38,180,5418481,4926211,2669017
-2020,3º,menos de quatro milhões de clientes,conglomerado, ,pine (conglomerado),,1,1,3,5,11124,10229,1494
-2020,3º,menos de quatro milhões de clientes,conglomerado, ,plural (conglomerado),,0,1,1,2,5196,5195,35
-2020,3º,menos de quatro milhões de clientes,conglomerado, ,porto seguro (conglomerado),41.87,106,101,100,307,2531276,0,2531276
-2020,3º,menos de quatro milhões de clientes,banco/financeira,01800019,"portocred s.a. - credito, financiamento e investimento",,16,25,28,69,241363,3783,237584
-2020,3º,mais de quatro milhões de clientes,banco/financeira,27351731,"realize crédito, financiamento e investimento s.a.",1.11,5,41,30,76,4472840,17,4472825
-2020,3º,menos de quatro milhões de clientes,conglomerado, ,rendimento (conglomerado),,3,11,4,18,23240,19196,6759
-2020,3º,menos de quatro milhões de clientes,conglomerado, ,rodobens (conglomerado),,2,0,2,4,12960,1690,11711
-2020,3º,menos de quatro milhões de clientes,conglomerado, ,safra (conglomerado),362.4,996,1229,657,2882,2748317,1181841,1728759
-2020,3º,menos de quatro milhões de clientes,banco/financeira,05503849,"santana s.a. - crédito, financiamento e investimento",,1,2,4,7,29252,1252,28001
-2020,3º,mais de quatro milhões de clientes,conglomerado, ,santander (conglomerado),34.33,1723,4260,3621,9604,50180892,41666035,24563401
-2020,3º,menos de quatro milhões de clientes,banco/financeira,00122327,"santinvest s.a. - credito, financiamento e investimentos",,2,3,0,5,14244,718,13526
-2020,3º,menos de quatro milhões de clientes,banco/financeira,07747410,"sax s.a. - crédito, financiamento e investimento",,7,5,8,20,731992,0,731992
-2020,3º,menos de quatro milhões de clientes,banco/financeira,11970623,"senff s.a. - crédito, financiamento e investimento",,4,3,9,16,70051,81,69974
-2020,3º,mais de quatro milhões de clientes,conglomerado, ,sicredi (conglomerado),0.19,1,1,1,3,5197523,5176329,164622
-2020,3º,menos de quatro milhões de clientes,conglomerado, ,sinosserra (conglomerado),,0,2,0,2,7849,80,7770
-2020,3º,menos de quatro milhões de clientes,conglomerado, ,societe generale (conglomerado),,0,3,0,3,714,571,183
-2020,3º,menos de quatro milhões de clientes,banco/financeira,03881423,"socinal s.a. - crédito, financiamento e investimento",,3,3,6,12,4742,2380,2363
-2020,3º,menos de quatro milhões de clientes,conglomerado, ,sofisa (conglomerado),,17,19,44,80,273589,262899,16106
-2020,3º,menos de quatro milhões de clientes,conglomerado, ,sorocred (conglomerado),,4,19,32,55,491804,1218,490642
-2020,3º,menos de quatro milhões de clientes,banco/financeira,09473806,"todescredi s/a - crédito, financiamento e investimento",,0,0,1,1,36019,4,36015
-2020,3º,menos de quatro milhões de clientes,banco/financeira,05192316,"via certa financiadora s.a. - crédito, financiamento e investimentos",,0,2,0,2,409428,994,408436
-2020,3º,menos de quatro milhões de clientes,conglomerado, ,volkswagen (conglomerado),115.96,45,18,55,118,388049,1398,386950
-2020,3º,menos de quatro milhões de clientes,conglomerado, ,volvo (conglomerado),,0,1,2,3,7713,81,7706
-2020,3º,mais de quatro milhões de clientes,conglomerado, ,votorantim (conglomerado),6.1,67,294,529,890,10966653,7373002,4214185
-2020,3º,menos de quatro milhões de clientes,conglomerado, ,western union (conglomerado),,1,1,1,3,1,1,0
-2020,3º,menos de quatro milhões de clientes,conglomerado, ,yamaha motor (conglomerado),,9,4,14,27,190240,46,190200
 2021,4º,"demais bancos, financeiras e instituições de pagamento",conglomerado, ,abc-brasil (conglomerado),,2,0,3,5,33095,31565,4248
 2021,4º,"demais bancos, financeiras e instituições de pagamento",banco/financeira,13140088,acesso soluções de pagamento s.a.,20.87,42,28,5,75,2011869,2011869,0
 2021,4º,"demais bancos, financeiras e instituições de pagamento",conglomerado, ,agibank (conglomerado),195.92,309,334,76,719,1577152,1224075,996638
@@ -891,3 +778,116 @@ ano,trimestre,categoria,tipo,cnpj_if,instituicao_financeira,indice,quantidade_de
 2021,4º,"demais bancos, financeiras e instituições de pagamento",banco/financeira,23862762,"will financeira s.a. crédito, financiamento e investimento",19.87,41,31,22,94,2062720,2062055,440454
 2021,4º,"demais bancos, financeiras e instituições de pagamento",conglomerado, ,xp (conglomerado),184.34,70,13,7,90,379732,376638,284044
 2021,4º,"demais bancos, financeiras e instituições de pagamento",conglomerado, ,yamaha motor (conglomerado),,0,9,14,23,213549,115,213456
+2021,3º,demais bancos e financeiras,conglomerado, ,abc-brasil (conglomerado),,1,2,1,4,29707,28217,4009
+2021,3º,demais bancos e financeiras,conglomerado, ,agibank (conglomerado),82.54,109,296,107,512,1320447,999951,873341
+2021,3º,demais bancos e financeiras,banco/financeira,36321990,"agoracred s/a sociedade de crédito, financiamento e investimento",,3,1,2,6,453405,130,453275
+2021,3º,demais bancos e financeiras,banco/financeira,27214112,"al5 s.a. crédito, financiamento e investimento",,4,0,6,10,18217,9981,11683
+2021,3º,demais bancos e financeiras,conglomerado, ,alfa (conglomerado),,13,61,11,85,420486,268221,153423
+2021,3º,demais bancos e financeiras,conglomerado, ,andbank (conglomerado),,0,3,3,6,4369,4369,48
+2021,3º,demais bancos e financeiras,banco/financeira,03532415,banco abn amro s.a.,,0,0,1,1,41,41,1
+2021,3º,demais bancos e financeiras,banco/financeira,54403563,banco arbi s.a.,,1,9,1,11,28673,20319,8520
+2021,3º,demais bancos e financeiras,banco/financeira,33132044,banco cedula s.a.,,0,1,0,1,18022,2815,15434
+2021,3º,demais bancos e financeiras,banco/financeira,02992446,banco cnh industrial capital s.a.,,0,0,1,1,28309,1234,27347
+2021,3º,demais bancos e financeiras,banco/financeira,08357240,banco csf s.a.,14.94,111,89,59,259,7425297,0,7425297
+2021,3º,demais bancos e financeiras,banco/financeira,04902979,banco da amazonia s.a.,,2,4,8,14,551874,473802,194373
+2021,3º,demais bancos e financeiras,banco/financeira,10690848,banco da china brasil s.a.,,1,0,0,1,481,457,39
+2021,3º,demais bancos e financeiras,banco/financeira,33042151,banco de la nacion argentina,,0,1,0,1,256,244,21
+2021,3º,demais bancos e financeiras,banco/financeira,92874270,banco digimais s.a.,258.94,102,28,34,164,393906,266246,192853
+2021,3º,demais bancos e financeiras,banco/financeira,27098060,banco digio s.a.,31.05,58,108,71,237,1867547,1096662,1553737
+2021,3º,demais bancos e financeiras,banco/financeira,13009717,banco do estado de sergipe s.a.,,10,23,17,50,1082245,831407,621508
+2021,3º,demais bancos e financeiras,banco/financeira,04913711,banco do estado do pará s.a.,42.87,39,23,23,85,909670,786497,405982
+2021,3º,demais bancos e financeiras,banco/financeira,07237373,banco do nordeste do brasil s.a.,,13,23,37,73,8844660,8261233,3268835
+2021,3º,demais bancos e financeiras,banco/financeira,58616418,banco fibra s.a.,,0,0,1,1,163670,4092,160152
+2021,3º,demais bancos e financeiras,banco/financeira,62237425,banco fidis s/a,,0,7,4,11,4661,147,4533
+2021,3º,demais bancos e financeiras,banco/financeira,53518684,banco hsbc s.a.,,0,0,2,2,3087,3074,58
+2021,3º,demais bancos e financeiras,banco/financeira,04866275,banco inbursa s.a.,,5,5,5,15,14726,9,14717
+2021,3º,demais bancos e financeiras,banco/financeira,78632767,banco ourinvest s.a.,,5,2,0,7,50060,47319,2771
+2021,3º,demais bancos e financeiras,banco/financeira,61820817,banco paulista s.a.,,1,0,2,3,28238,7793,20692
+2021,3º,demais bancos e financeiras,banco/financeira,00795423,banco semear s.a.,,2,2,0,4,270979,3638,267795
+2021,3º,demais bancos e financeiras,banco/financeira,11970623,banco senff s.a.,,1,4,1,6,109166,40042,70102
+2021,3º,demais bancos e financeiras,conglomerado, ,banco sicoob (conglomerado),,21,26,6,53,5047970,2390217,3240987
+2021,3º,demais bancos e financeiras,banco/financeira,07679404,banco topázio s.a.,,4,5,2,11,43686,15291,30304
+2021,3º,demais bancos e financeiras,banco/financeira,03215790,banco toyota do brasil s.a.,,1,4,3,8,155981,15264,141643
+2021,3º,demais bancos e financeiras,banco/financeira,17351180,banco triangulo s.a.,,10,15,6,31,2025332,439855,1847196
+2021,3º,demais bancos e financeiras,conglomerado, ,banestes (conglomerado),,17,35,21,73,1345235,1295217,477798
+2021,3º,demais bancos e financeiras,conglomerado, ,banrisul (conglomerado),37.68,190,550,115,855,5041288,3714546,3937433
+2021,3º,demais bancos e financeiras,conglomerado, ,barigui (conglomerado),,19,32,21,72,172348,144592,45355
+2021,3º,top 10 - bancos e financeiras,conglomerado, ,bb (conglomerado),16.79,1180,2361,2288,5829,70259170,65432728,31696455
+2021,3º,demais bancos e financeiras,banco/financeira,45283173,bbva brasil banco de investimento s.a.,,0,0,1,1,0,0,0
+2021,3º,demais bancos e financeiras,banco/financeira,11285104,"biorc financeira - crédito, financiamento e investimento s.a.",,0,0,1,1,18321,251,18070
+2021,3º,demais bancos e financeiras,conglomerado, ,bmg (conglomerado),106.63,868,1268,262,2398,8140173,4751592,5008921
+2021,3º,demais bancos e financeiras,conglomerado, ,bmw (conglomerado),,0,0,1,1,28019,25950,21412
+2021,3º,demais bancos e financeiras,conglomerado, ,bnp paribas (conglomerado),125.22,286,493,117,896,2283925,11993,2272412
+2021,3º,demais bancos e financeiras,conglomerado, ,bofa merrill lynch (conglomerado),,0,1,1,2,4782,4777,107
+2021,3º,top 10 - bancos e financeiras,conglomerado, ,bradesco (conglomerado),36.03,3613,4188,2892,10693,100264792,91440415,43363537
+2021,3º,demais bancos e financeiras,conglomerado, ,brb (conglomerado),50.95,148,197,351,696,2904792,2790333,1380307
+2021,3º,demais bancos e financeiras,banco/financeira,12865507,"brk s.a. crédito, financiamento e investimento",,0,0,1,1,6482,715,5970
+2021,3º,top 10 - bancos e financeiras,conglomerado, ,btg pactual/banco pan (conglomerado),65.83,1004,1372,685,3061,15250442,9574292,7935699
+2021,3º,top 10 - bancos e financeiras,conglomerado, ,c6 bank (conglomerado),149.45,1651,1425,749,3825,11046743,9885015,3341379
+2021,3º,top 10 - bancos e financeiras,conglomerado, ,caixa econômica federal (conglomerado),22.36,3264,4303,4305,11872,145914729,144407266,23490184
+2021,3º,demais bancos e financeiras,banco/financeira,09313766,"caruana s.a. - sociedade de crédito, financiamento e investimento",,2,2,3,7,76719,70930,16272
+2021,3º,demais bancos e financeiras,conglomerado, ,ccb (conglomerado),,24,122,14,160,205490,3702,202355
+2021,3º,demais bancos e financeiras,conglomerado, ,citibank (conglomerado),,1,5,6,12,18294,17394,1809
+2021,3º,demais bancos e financeiras,conglomerado, ,colombo (conglomerado),,2,4,0,6,345089,30,345072
+2021,3º,demais bancos e financeiras,conglomerado, ,crefisa (conglomerado),24.02,64,133,57,254,2663580,1577219,1594966
+2021,3º,demais bancos e financeiras,conglomerado, ,daycoval (conglomerado),255.32,332,552,63,947,1300297,160302,1173219
+2021,3º,demais bancos e financeiras,banco/financeira,15581638,facta financeira s.a. - crédito financiamento e investimento,458.43,131,272,25,428,285752,681,285077
+2021,3º,demais bancos e financeiras,conglomerado, ,fator (conglomerado),,0,0,1,1,13744,13740,19
+2021,3º,demais bancos e financeiras,banco/financeira,36583700,"fc financeira s.a. - crédito, financiamento e investimento",,1,1,0,2,11153,0,11153
+2021,3º,demais bancos e financeiras,banco/financeira,00411939,"finamax s.a. - credito, financiamento e investimento",,0,1,4,5,85526,1653,83930
+2021,3º,demais bancos e financeiras,conglomerado, ,genial (conglomerado),,10,3,1,14,208540,208535,44
+2021,3º,demais bancos e financeiras,conglomerado, ,gm (conglomerado),,1,10,9,20,274480,483,274083
+2021,3º,demais bancos e financeiras,conglomerado, ,grupo bonsucesso - bs2 (conglomerado),95.86,86,136,55,277,897134,892175,16308
+2021,3º,demais bancos e financeiras,conglomerado, ,grupo zema (conglomerado),,1,4,4,9,461496,577,460937
+2021,3º,demais bancos e financeiras,conglomerado, ,herval - hs (conglomerado),,10,1,3,14,219957,22813,202041
+2021,3º,demais bancos e financeiras,conglomerado, ,honda (conglomerado),,5,7,7,19,428225,106,428199
+2021,3º,demais bancos e financeiras,banco/financeira,17453575,icbc do brasil banco múltiplo s.a.,,0,1,0,1,187,175,24
+2021,3º,demais bancos e financeiras,conglomerado, ,industrial do brasil (conglomerado),,10,18,4,32,63911,4519,60187
+2021,3º,top 10 - bancos e financeiras,conglomerado, ,inter (conglomerado),55.99,746,732,298,1776,13323223,13217210,1954815
+2021,3º,top 10 - bancos e financeiras,conglomerado, ,itau (conglomerado),15.05,1318,3194,2338,6850,87568455,68959837,50906457
+2021,3º,demais bancos e financeiras,banco/financeira,04230630,"jbcred s.a. sociedade de credito, financiamento e investimento",,0,6,1,7,52001,0,52001
+2021,3º,demais bancos e financeiras,banco/financeira,11271860,"lebes financeira s.a. - crédito, financiamento e investimento",,1,2,0,3,249991,4,249987
+2021,3º,demais bancos e financeiras,conglomerado, ,lecca (conglomerado),,3,4,2,9,27668,330,27340
+2021,3º,demais bancos e financeiras,banco/financeira,07747410,m pagamentos s.a. - crédito financiamento e investimento,,3,6,5,14,626141,0,626141
+2021,3º,demais bancos e financeiras,conglomerado, ,master (conglomerado),2055.01,223,77,17,317,108515,5657,103039
+2021,3º,demais bancos e financeiras,conglomerado, ,mercado crédito (conglomerado),,0,0,1,1,47984,0,47984
+2021,3º,demais bancos e financeiras,conglomerado, ,mercantil do brasil (conglomerado),122.14,467,228,106,801,3823232,3235072,1856560
+2021,3º,demais bancos e financeiras,conglomerado, ,mercedes-benz (conglomerado),,0,1,1,2,20203,341,19944
+2021,3º,demais bancos e financeiras,banco/financeira,09464032,"midway s.a. - crédito, financiamento e investimento",,22,102,52,176,10572319,286354,10523154
+2021,3º,demais bancos e financeiras,conglomerado, ,modal (conglomerado),,21,31,8,60,1304283,1304119,33167
+2021,3º,demais bancos e financeiras,banco/financeira,04379829,"negresco s.a. - credito, financiamento e investimentos",,0,1,0,1,434448,677,433771
+2021,3º,demais bancos e financeiras,banco/financeira,74828799,novo banco continental s.a. - banco múltiplo,,5,29,0,34,99651,3135,96953
+2021,3º,top 10 - bancos e financeiras,conglomerado, ,nubank (conglomerado),0.13,3,18,17,38,22267718,20581767,3601628
+2021,3º,demais bancos e financeiras,conglomerado, ,omni (conglomerado),,17,60,67,144,5281196,165744,5129818
+2021,3º,demais bancos e financeiras,conglomerado, ,original (conglomerado),47.03,265,369,212,846,5634279,4365122,2051035
+2021,3º,demais bancos e financeiras,conglomerado, ,pagbank-pagseguro (conglomerado),,5,4,2,11,3342281,3335727,7063
+2021,3º,demais bancos e financeiras,conglomerado, ,paraná banco (conglomerado),193.45,94,412,20,526,485895,10034,476123
+2021,3º,demais bancos e financeiras,banco/financeira,03311443,"parati - credito, financiamento e investimento s.a.",14015.05,54,21,1,76,3853,0,3853
+2021,3º,demais bancos e financeiras,banco/financeira,43180355,"pefisa s.a. - crédito, financiamento e investimento",12.79,87,59,22,168,6798337,6588214,2507474
+2021,3º,demais bancos e financeiras,conglomerado, ,pine (conglomerado),,3,3,0,6,12869,10925,2618
+2021,3º,demais bancos e financeiras,conglomerado, ,porto seguro (conglomerado),18.21,55,69,62,186,3019992,0,3019992
+2021,3º,demais bancos e financeiras,banco/financeira,01800019,"portocred s.a. - credito, financiamento e investimento",,19,32,17,68,225158,1,225157
+2021,3º,demais bancos e financeiras,banco/financeira,27351731,"realize crédito, financiamento e investimento s.a.",,10,39,21,70,4873514,51,4873489
+2021,3º,demais bancos e financeiras,conglomerado, ,rendimento (conglomerado),,1,10,1,12,26068,22168,6473
+2021,3º,demais bancos e financeiras,conglomerado, ,rodobens (conglomerado),,1,1,1,3,14845,1609,13625
+2021,3º,demais bancos e financeiras,conglomerado, ,safra (conglomerado),103.36,442,932,408,1782,4276210,1938760,2638051
+2021,3º,demais bancos e financeiras,banco/financeira,05503849,"santana s.a. - crédito, financiamento e investimento",,0,1,0,1,29858,1259,28602
+2021,3º,top 10 - bancos e financeiras,conglomerado, ,santander (conglomerado),29.19,1558,3646,2031,7235,53358153,45593473,25859687
+2021,3º,demais bancos e financeiras,banco/financeira,00122327,"santinvest s.a. - credito, financiamento e investimentos",,1,4,0,5,14007,592,13415
+2021,3º,demais bancos e financeiras,conglomerado, ,sicredi (conglomerado),,0,0,2,2,6101332,6080485,187051
+2021,3º,demais bancos e financeiras,conglomerado, ,simpala (conglomerado),,1,0,1,2,2883,25,2858
+2021,3º,demais bancos e financeiras,conglomerado, ,societe generale (conglomerado),,0,1,0,1,534,418,159
+2021,3º,demais bancos e financeiras,banco/financeira,03881423,"socinal s.a. - crédito, financiamento e investimento",,1,3,7,11,2088,460,1628
+2021,3º,demais bancos e financeiras,conglomerado, ,sofisa (conglomerado),90.68,37,21,19,77,407986,398001,17484
+2021,3º,demais bancos e financeiras,conglomerado, ,sorocred (conglomerado),,14,28,10,52,248801,1076,247735
+2021,3º,demais bancos e financeiras,banco/financeira,41498340,"tentos s.a. crédito, financiamento e investimento",,1,0,0,1,129,0,129
+2021,3º,demais bancos e financeiras,banco/financeira,09473806,"todescredi s/a - crédito, financiamento e investimento",,0,0,1,1,37627,11,37616
+2021,3º,demais bancos e financeiras,banco/financeira,05192316,"via certa financiadora s.a. - crédito, financiamento e investimentos",,2,3,1,6,405846,1385,404867
+2021,3º,demais bancos e financeiras,conglomerado, ,voiter (conglomerado),,1,2,2,5,5059,4490,841
+2021,3º,demais bancos e financeiras,conglomerado, ,volkswagen (conglomerado),,21,29,44,94,358084,945,357307
+2021,3º,demais bancos e financeiras,conglomerado, ,volvo (conglomerado),,0,1,0,1,7212,49,7204
+2021,3º,top 10 - bancos e financeiras,conglomerado, ,votorantim (conglomerado),13.9,256,193,225,674,18414652,15132752,5084002
+2021,3º,demais bancos e financeiras,conglomerado, ,western union (conglomerado),,2,2,0,4,1,1,0
+2021,3º,demais bancos e financeiras,banco/financeira,23862762,"will financeira s.a. crédito, financiamento e investimento",18.99,35,43,33,111,1842985,1842425,391779
+2021,3º,demais bancos e financeiras,conglomerado, ,xp (conglomerado),138.8,42,6,10,58,302591,302459,231155
+2021,3º,demais bancos e financeiras,conglomerado, ,yamaha motor (conglomerado),,2,2,11,15,210964,88,210884

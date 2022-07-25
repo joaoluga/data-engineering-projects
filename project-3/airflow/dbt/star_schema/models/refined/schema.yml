@@ -1,0 +1,90 @@
+
+version: 2
+
+sources:
+  - name: trusted
+    tables:
+    - name: bancos
+      description: "normalized table for bancos information retrieved from the api"
+    - name: lista_tarifas
+      description: "normalized table for lista_tarifas information retrieved from the api"
+
+
+models:
+  - name: dim_categoria
+    description: "The dimension for bank's category info"
+    columns:
+      - name: categoria_id
+        description: "fake natural key generated with the md5 of categoria"
+      - name: categoria
+        description: "Regarding the category of the bank"
+
+  - name: dim_tipo
+    description: "The dimension for bank's type info"
+    columns:
+      - name: tipo_id
+        description: "fake natural key generated with the md5 of tipo"
+      - name: tipo
+        description: "Regarding the type of the bank"
+
+  - name: dim_instituicao_financeira
+    description: "The dimension representating the bank itself"
+    columns:
+      - name: instituicao_financeira
+        description: "fake natural key generated with the md5 of cnpj_if and the name of the bank"
+      - name: cnpj_if
+        description: "The social id of the bank"
+      - name: instituicao_financeira
+        description: "The name of the bank"
+      - name: indice
+        description: "The classification/index of the bank's service regarding it's number of issues"
+
+  - name: dim_data
+    description: "The dimension of dates"
+    columns:
+      - name: data_id
+        description: "fake natural key generated with the md5 of ano and trimestre"
+      - name: ano
+        description: "Year"
+      - name: trimestre
+        description: "trimester"
+
+  - name: fact_bancos_tarifas
+    description: "The fact table generated with the bancos and lista_tarifas info"
+    columns:
+      - name: index
+        description: "just an ordinal index"
+      - name: data_id
+        description:  "The fk for dim_data table"
+      - name: instituicao_financeira_id
+        description: "The fk for dim_instituicao_financeira_id"
+      - name: categoria
+        description: "The fk for dim_categoria"
+      - name: tipo
+        description: "The fk for dim_tipo"
+      - name: quantidade_de_reclamacoes_reguladas_procedentes
+        description: "Amount of valid issues"
+      - name: qtde_reclamacoes_reguladas_outras
+        description: "Amount of issues qualified as others"
+      - name: qtde_de_reclamacoes_nao_reguladas
+        description: "Amount of issues unregulated"
+      - name: qtde_total_reclamacoes
+        description: "total amount of issues"
+      - name: qtde_total_clientes_spa_ccs_e_scr
+        description: "total amount of clients spa ccs and scr"
+      - name: qtde_clientes_spa_ccs
+        description: "total amout of clients spa css"
+      - name: qtde_clientes_spa_scr
+        description: "total amount of clients spa scr"
+      - name: total_servicos
+        description: "total amount of provided services"
+      - name: total_cobrancas_type
+        description: "total amount of type of fees"
+      - name: total_taxas_pagas
+        description: "total amount of paid fee for all services"
+      - name: total_taxas_gratuitas
+        description: "total amount of non-paid/free fee for all services"
+      - name: valor_maximo_taxa_real
+        description: "max paid value for a fee"
+      - name: valor_maximo_taxa_percentual
+        description: "max percentual value charged in a fee"
