@@ -9,9 +9,8 @@
 .jupyter
 .local
 *.pyc
-project-2/notebooks/layers/raw/bancos.csv
-project-2/notebooks/layers/raw/lista_tarifas.csv
-project-2/notebooks/layers/trusted/bancos.csv
-project-2/notebooks/layers/trusted/lista_tarifas.csv
+bancos.csv
+lista_tarifas.csv
+
 out/
 project-3/airflow/dbt/logs/dbt.log
