@@ -1,7 +1,7 @@
 # Project 2 - ETL with Python and SQL
 
 ## 1. Context
-The main challenge is ingesting data from a CSV and API using a Visual/Drag-and-Drop orchestration platform, create a star-schema and display 3 graphs in a dashboard.
+The main challenge is ingest data from a CSV and API using only Python and SQL, create a star-schema and display 3 graphs in a dashboard.
 
 ## 2. Project
 

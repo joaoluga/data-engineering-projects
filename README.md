@@ -16,6 +16,10 @@ Check the solution: [here](project-1/README.md)
 The main challenge is ingest data from a CSV and API using only Python and SQL, create a star-schema and display 3 graphs in a dashboard.
 Check the solution: [here](project-2/README.md)
 
+### Project 3 | ETL with Apache Airflow and DBT only
+The main challenge is ingest data from a CSV and API using Apache Airflow, DBT to create a star-schema and display 3 graphs in a dashboard.
+Check the solution: [here](project-3/README.md)
+
 ## Authors
 
 - [@joaoluga](https://github.com/joaoluga)
@@ -37,3 +41,6 @@ Check the solution: [here](project-2/README.md)
 - **[Python 3+](https://www.python.org/)**
 - **[Jupyter](https://jupyter.org/)**
 - **[Seaborn](https://seaborn.pydata.org/)**
+- **[DBT](https://docs.getdbt.com/)**
+- **[Jupyter Kernel Gateway](https://jupyter-kernel-gateway.readthedocs.io/en/latest/)**
+- **[yq](https://mikefarah.gitbook.io/yq/)**

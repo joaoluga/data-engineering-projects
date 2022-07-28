@@ -1,0 +1,13 @@
+FROM python:3.9-slim-buster
+
+WORKDIR dbt-docs/
+
+RUN apt update && apt install wget git -y
+RUN wget https://github.com/mikefarah/yq/releases/download/v4.26.1/yq_linux_arm64.tar.gz -O -|\
+    tar xz && mv yq_linux_arm64 /usr/bin/yq
+
+RUN pip install dbt-postgres==1.1.1
+
+COPY entrypoint-dbt-docs.sh /tmp/entrypoint.sh
+
+ENTRYPOINT ["/tmp/entrypoint.sh"]
