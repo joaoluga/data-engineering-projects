@@ -29,7 +29,8 @@ with DAG(
 ) as dag:
 
     t1 = PythonOperator(
-        task_id="run_jupyter_notebook", python_callable=run_jupyter_notebook
+        task_id="run_jupyter_notebook",
+        python_callable=run_jupyter_notebook,
     )
 
     t2 = BashOperator(
