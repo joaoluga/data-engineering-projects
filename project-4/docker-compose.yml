@@ -1,0 +1,98 @@
+version: '2.2'
+services:
+  pg_analytics:
+    container_name: pg_analytics
+    image: postgres:12
+    environment:
+      POSTGRES_DB: analytics
+      POSTGRES_PASSWORD: admin
+      POSTGRES_USER: admin
+    ports:
+      - "5435:5432"
+    healthcheck:
+      test: [ "CMD-SHELL", "pg_isready -d analytics -U admin" ]
+      interval: 30s
+      timeout: 30s
+      retries: 3
+  airflow_db:
+    container_name: airflow_db
+    image: postgres:12
+    environment:
+      POSTGRES_DB: airflow
+      POSTGRES_PASSWORD: admin
+      POSTGRES_USER: admin
+    ports:
+      - "5436:5432"
+    healthcheck:
+      test: [ "CMD-SHELL", "pg_isready -d airflow -U admin" ]
+      interval: 30s
+      timeout: 30s
+      retries: 3
+  airflow_webserver:
+    container_name: airflow_webserver
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"
+    volumes: &default_airflow_volumes
+      - ./airflow/dags:/usr/local/airflow/dags:rw
+    environment: &default_airflow_env_vars
+      - AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=postgresql+psycopg2://admin:admin@airflow_db:5432/airflow
+      - AIRFLOW_HOME=/usr/local/airflow
+      - AIRFLOW__CORE__DAGS_FOLDER=/usr/local/airflow/dags
+      - AIRFLOW__CORE__REMOTE_LOGGING=False
+      - AIRFLOW__CORE__LOAD_EXAMPLES=False
+      - AIRFLOW__CORE__FERNET_KEY=CfdDsMG4QHxoWJkyslKa8TRSrzG3d0oEDg-aVvBBT_w=
+      - AIRFLOW__CORE__EXECUTOR=LocalExecutor
+      - AIRFLOW__WEBSERVER__SECRET_KEY=local_flask_key
+      - AIRFLOW__WEBSERVER__RBAC=True
+      - AIRFLOW__WEBSERVER__AUTHENTICATE=True
+      - AIRFLOW__WEBSERVER__AUTH_BACKEND=auth_backend = airflow.contrib.auth.backends.password_auth
+      - AIRFLOW__WEBSERVER__BASE_URL=http://localhost:8080
+      - AIRFLOW__CLI__ENDPOINT_URL=http://localhost:8080
+      - ADMIN_PWD=admin
+      - EMR_BUCKET_NAME=project4-emr
+    depends_on:
+      airflow_db:
+        condition: service_healthy
+    command: ["webserver"]
+    healthcheck:
+      test: ["CMD-SHELL", "[ -f /usr/local/airflow/airflow-webserver.pid ]"]
+      interval: 30s
+      timeout: 30s
+      retries: 5
+  airflow_scheduler:
+    container_name: airflow_scheduler
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes: *default_airflow_volumes
+    environment: *default_airflow_env_vars
+    command: ["scheduler"]
+    depends_on:
+      airflow_webserver:
+        condition: service_healthy
+  metabase:
+    image: metabase/metabase
+    environment:
+      MB_DB_CONNECTION_URI: jdbc:postgresql://pg_metabase:5432/metabase?user=admin&password=admin
+    ports:
+      - "3000:3000"
+    depends_on:
+      pg_metabase:
+        condition: service_healthy
+  pg_metabase:
+    container_name: pg_metabase
+    image: postgres:12
+    environment:
+      POSTGRES_DB: metabase
+      POSTGRES_PASSWORD: admin
+      POSTGRES_USER: admin
+    ports:
+      - "5437:5432"
+    healthcheck:
+      test: [ "CMD-SHELL", "pg_isready -d metabase -U admin" ]
+      interval: 30s
+      timeout: 30s
+      retries: 3

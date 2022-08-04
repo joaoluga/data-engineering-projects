@@ -20,6 +20,10 @@ Check the solution: [here](project-2/README.md)
 The main challenge is ingest data from a CSV and API using Apache Airflow, DBT to create a star-schema and display 3 graphs in a dashboard.
 Check the solution: [here](project-3/README.md)
 
+### Project 4 | ETL with Apache Airflow and EMR
+The main challenge is ingest data from a CSV and API using Apache Airflow and EMR to create a star-schema and display 3 graphs in a dashboard.
+Check the solution: [here](project-4/README.md)
+
 ## Authors
 
 - [@joaoluga](https://github.com/joaoluga)
@@ -44,3 +48,10 @@ Check the solution: [here](project-3/README.md)
 - **[DBT](https://docs.getdbt.com/)**
 - **[Jupyter Kernel Gateway](https://jupyter-kernel-gateway.readthedocs.io/en/latest/)**
 - **[yq](https://mikefarah.gitbook.io/yq/)**
+- **[Terraform](https://www.terraform.io/)**
+- **[AWS | Elastic Container Service](https://docs.aws.amazon.com/ecs/index.html)**
+- **[AWS | Fargate](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/AWS_Fargate.html)**
+- **[AWS | Application Load Balancer](https://docs.aws.amazon.com/elasticloadbalancing/latest/application/introduction.html)**
+- **[AWS | RDS](https://docs.aws.amazon.com/rds/index.html)**
+- **[AWS | Glue Crawler](https://docs.aws.amazon.com/glue/latest/dg/add-crawler.html)**
+- **[AWS | EMR](https://docs.aws.amazon.com/emr/index.html)**

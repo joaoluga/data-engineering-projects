@@ -14,3 +14,6 @@ lista_tarifas.csv
 
 out/
 project-3/airflow/dbt/logs/dbt.log
+.terraform
+.terraform.tfstate*
+terraform.tfstate*
