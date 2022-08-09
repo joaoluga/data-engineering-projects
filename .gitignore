@@ -11,7 +11,7 @@
 *.pyc
 bancos.csv
 lista_tarifas.csv
-
+export.txt
 out/
 project-3/airflow/dbt/logs/dbt.log
 .terraform

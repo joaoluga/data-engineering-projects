@@ -1,0 +1,12 @@
+FROM python:3.9-slim-buster
+
+WORKDIR /usr/local/airflow
+
+COPY airflow/dags /usr/local/airflow/dags
+COPY requirements.txt requirements.txt
+RUN pip install --upgrade pip \
+    && pip install -U setuptools wheel pipenv \
+    && pip install -r requirements.txt
+
+COPY entrypoint.sh /tmp/entrypoint.sh
+ENTRYPOINT ["/tmp/entrypoint.sh"]

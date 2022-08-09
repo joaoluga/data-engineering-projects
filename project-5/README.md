@@ -1,15 +1,16 @@
-# Project 4 - ETL with Apache Airflow and EMR
+# Project 5 - ETL with Serverless Services (AWS)
 
 ## 1. Context
-The main challenge is ingest data from a CSV and API using Apache Airflow and EMR to create a star-schema and display 3 graphs in a dashboard.
+The main challenge is ingest data from a CSV and API using only Serverless Services from AWS.
 
 ## 2. Project
 
 Our solution includes the usage of five main technologies:
 * **ECS**: As the platform to run our containers
-* **EMR**: As the platform to run our ETL codes.
+* **Glue**: As the platform to run our ETL codes.
 * **Spark**: as the main language to process the data
 * **Metabase**: as the data visualization tool
+* **Athena**: as the query engine to retrieve data from s3 and deliver to Metabase to build the dashboards
 * **Apache Airflow**: as the scheduling and orchestration tool
 
 ![alt text](architecture_diagram/source_images/architecture_resized.png "Architecture")
@@ -19,9 +20,9 @@ At Apache Airflow, it was implemented a [DAG](airflow/dags/star_schema.py) calle
 
 ![alt text](architecture_diagram/source_images/dag.png "DAG")
 
-There are only two types of operators used in this class which are the [EmrCreateJobFlowOperator](https://registry.astronomer.io/providers/amazon/modules/emrcreatejobflowoperator) and [EmrJobFlowSensor](https://registry.astronomer.io/providers/amazon/modules/emrjobflowsensor). The first one will be responsible to create the EMR Spot instance and assign a Step to it. The second one will basically check if the execution succeeded or not, if it fails the Operator will fail as well, otherwise it will become green (success) and proceed to the next operator.
+There are only one type of operator used in this DAG which is the PythonOperator that will be responsible to run a function that will trigger the **Glue Job** passing the required arguments for the job. Also, the same function will perform the **handling** of the job execution and wait until the job succeed or fail.
 
-There is only one file that is being executed by all jobs on EMR which is the [emr/job_template.py](emr/job_template.py). Basically, this job is calling the ETLFactory class to build each class that will be executed in the EMR StepJob. In the image below you can check a diagram of how the `packages` directory is structured.
+There is only one file that is being executed by all jobs on Glue which is the [glue/job_template.py](glue/job_template.py). Basically, this job is calling the ETLFactory class to build each class that will be executed in the Glue Job. In the image below you can check a diagram of how the `packages` directory is structured.
 
 ![alt text](architecture_diagram/source_images/oo_design1.png "OO Design")
 * **Logger**: A class that implements/configure a logger for the project
@@ -35,17 +36,20 @@ There is only one file that is being executed by all jobs on EMR which is the [e
 
 
 ### Data Visualization
-Using metabase it was generated the three following graphs:
+Using metabase connected to Athena it was generated the three following graphs:
 
   * **Relation between total of services provided by a bank and the number of complains/issues.**
+
   ![alt text](architecture_diagram/source_images/graph1.png "Star Schema Model")
 
 
   * **TOP Banks with more complains/issues.**
+
   ![alt text](architecture_diagram/source_images/graph2.png "Star Schema Model")
   
 
   * **TOP banks with free services (no fee).**
+
   ![alt text](architecture_diagram/source_images/graph3.png "Star Schema Model")
 
 
@@ -60,8 +64,7 @@ Using metabase it was generated the three following graphs:
 
 * **Development Environment**
   - **[Terraform v12+](https://www.terraform.io/)**
-
-
+  
 #### 3.1.2 Executing the project - Local Environment
 
 On your terminal, execute the following cmd:

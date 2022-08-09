@@ -1,0 +1,8 @@
+FROM metabase/metabase
+
+RUN apk update
+RUN apk add jq
+
+RUN curl -LJ https://github.com/dacort/metabase-athena-driver/releases/download/v1.4.0/athena.metabase-driver.jar --output /app/athena.metabase-driver.jar
+
+ENTRYPOINT ["java", "-jar", "/app/metabase.jar"]

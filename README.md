@@ -8,7 +8,7 @@ The main idea is store the solution for the proposed problems during the classes
 
 ## Projects
 
-### Project 1 | ETL with Drag-And-Drop Orchestration Platform
+### Project 1 | ETL with Drag-And-Drop Orchestration Platform (Low Code)
 The main challenge is ingest data from a CSV and API using a Visual/Drag-and-Drop orchestration platform, create a star-schema and display 3 graphs in a dashboard.
 Check the solution: [here](project-1/README.md)
 
@@ -23,6 +23,10 @@ Check the solution: [here](project-3/README.md)
 ### Project 4 | ETL with Apache Airflow and EMR
 The main challenge is ingest data from a CSV and API using Apache Airflow and EMR to create a star-schema and display 3 graphs in a dashboard.
 Check the solution: [here](project-4/README.md)
+
+### Project 5 | ETL with Serverless Services (AWS)
+The main challenge is ingest data from a CSV and API using only Serverless Services from AWS.
+Check the solution: [here](project-5/README.md)
 
 ## Authors
 
@@ -55,3 +59,4 @@ Check the solution: [here](project-4/README.md)
 - **[AWS | RDS](https://docs.aws.amazon.com/rds/index.html)**
 - **[AWS | Glue Crawler](https://docs.aws.amazon.com/glue/latest/dg/add-crawler.html)**
 - **[AWS | EMR](https://docs.aws.amazon.com/emr/index.html)**
+- **[AWS | Athena](https://docs.aws.amazon.com/athena/index.html)**

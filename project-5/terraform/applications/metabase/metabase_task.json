@@ -1,0 +1,32 @@
+[
+  {
+    "name": "metabase",
+    "image": "${ecr_image}",
+    "essential": true,
+    "portMappings": [
+      {
+        "containerPort": ${port},
+        "hostPort": ${port}
+    }
+    ],
+    "environment": [
+      {
+        "name": "MB_DB_CONNECTION_URI",
+        "value": "${db_uri}"
+      },
+      {
+        "name": "MB_PLUGINS_DIR",
+        "value": "/app"
+      }
+
+    ],
+    "logConfiguration": {
+      "logDriver": "awslogs",
+      "options": {
+        "awslogs-group": "${awslogs_group}",
+        "awslogs-region": "${awslogs_region}",
+        "awslogs-stream-prefix": "metabase"
+      }
+    }
+  }
+]
